@@ -1,0 +1,44 @@
+name: Release
+
+# Compila o Lumen.exe no Windows e publica na página de Releases.
+# - Automático ao enviar uma tag nova (ex.: git tag v0.6.0 && git push origin v0.6.0).
+# - Manual pela aba Actions → Release → Run workflow, informando a tag (útil para tags antigas).
+on:
+  push:
+    tags: ['v*']
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Tag da release (ex.: v0.5.0)'
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: windows-latest
+    env:
+      TAG: ${{ github.event.inputs.tag || github.ref_name }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+
+      - name: Compilar
+        working-directory: codigo
+        run: dotnet publish -c Release -o out
+
+      - name: Publicar release
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          NOTES="Baixe o Lumen.exe, coloque numa pasta fixa e abra. Precisa do .NET 8 Desktop Runtime (o Windows oferece a instalação). Veja o README para os detalhes."
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            gh release upload "$TAG" codigo/out/Lumen.exe --clobber
+          else
+            gh release create "$TAG" codigo/out/Lumen.exe --title "Lumen $TAG" --notes "$NOTES" --target "$GITHUB_SHA"
+          fi
