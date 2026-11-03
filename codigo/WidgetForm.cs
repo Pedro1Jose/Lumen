@@ -138,18 +138,34 @@ namespace Lumen
             int left = _settings.Left ?? 0, top = _settings.Top ?? 0;
             if (!hasSaved || left < visible.Left || left > visible.Right - 60 || top < visible.Top || top > visible.Bottom - 60)
             {
-                var wa0 = Screen.PrimaryScreen!.WorkingArea;
-                left = wa0.Right - 16; top = wa0.Top + 16; hasSaved = false;
+                var b0 = Screen.PrimaryScreen!.Bounds;
+                left = b0.Left + 40; top = b0.Top + 40; hasSaved = false;
             }
             Location = new Point(left, top);
             Redraw(); // desenha na escala do monitor certo
 
-            // Depois de saber o tamanho novo, garante que o widget cabe inteiro na tela.
-            var wa = Screen.FromPoint(new Point(left + 5, top + 5)).WorkingArea;
-            if (!hasSaved) left = wa.Right - Width - 16;
+            var screen = Screen.FromPoint(new Point(left + 5, top + 5));
+            if (!hasSaved)
+            {
+                // Posição padrão: a mesma da tela de bloqueio, no canto inferior esquerdo,
+                // com o texto alinhado a 6,5% da largura e terminando a 80% da altura da tela.
+                var b = screen.Bounds;
+                int pad = (int)(14 * _lastScale * _settings.SizeFactor);
+                left = b.Left + (int)(b.Width * 0.065) - pad;
+                top = b.Top + (int)(b.Height * 0.80) - Height + pad;
+            }
+            // Garante que o widget cabe inteiro na área útil (sem ficar atrás da barra de tarefas).
+            var wa = screen.WorkingArea;
             left = Math.Max(wa.Left, Math.Min(left, wa.Right - Width));
             top = Math.Max(wa.Top, Math.Min(top, wa.Bottom - Height));
             if (left != Left || top != Top) { Location = new Point(left, top); Redraw(); }
+        }
+
+        // Esquece a posição salva e volta para o canto padrão.
+        public void ResetPosition()
+        {
+            _settings.Left = null; _settings.Top = null; _settings.Save();
+            PlaceWindow();
         }
 
         private void OnDrag(object? sender, MouseEventArgs e)

@@ -48,6 +48,7 @@ namespace Lumen
             var iniciar = new ToolStripMenuItem("Iniciar com o Windows") { CheckOnClick = true };
             try { iniciar.Checked = Startup.IsEnabled(); } catch { }
             iniciar.CheckedChanged += (_, _) => { try { Startup.Set(iniciar.Checked); } catch { } };
+            var posicao = new ToolStripMenuItem("Voltar para a posição padrão", null, (_, _) => widget.ResetPosition());
             var capitulo = new ToolStripMenuItem("Ler o capítulo inteiro", null, (_, _) => ChapterForm.ShowFor(widget.Current));
             var tamanho = new ToolStripMenuItem("Tamanho do texto");
             foreach (var (nome, valor) in new[] { ("Pequeno", "Pequeno"), ("Médio", "Medio"), ("Grande", "Grande") })
@@ -70,7 +71,7 @@ namespace Lumen
             };
             var sair = new ToolStripMenuItem("Sair", null, (_, _) => Application.Exit());
 
-            menu.Items.AddRange(new ToolStripItem[] { mostrar, ocultar, capitulo, copiar, new ToolStripSeparator(), tamanho, topo, bloqueio, iniciar, new ToolStripSeparator(), sair });
+            menu.Items.AddRange(new ToolStripItem[] { mostrar, ocultar, capitulo, copiar, new ToolStripSeparator(), tamanho, posicao, topo, bloqueio, iniciar, new ToolStripSeparator(), sair });
 
             var tray = new NotifyIcon { Icon = new Icon(icoStream), Visible = true, ContextMenuStrip = menu };
             void UpdateTip() { var t = "Lumen · " + widget.Current.Referencia; tray.Text = t.Length > 63 ? "Lumen" : t; }

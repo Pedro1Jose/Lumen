@@ -16,7 +16,7 @@ Lumen é um pequeno app para Windows que mostra o **versículo do dia** na área
 - **Capítulo inteiro:** um clique no versículo abre o capítulo completo, com o versículo do dia em destaque. As setas mudam de capítulo.
 - **Inicia com o Windows** e troca o versículo sozinho à meia-noite.
 - **Tamanho do texto** pequeno, médio ou grande.
-- **Arrastar** o widget para qualquer lugar; ele lembra a posição e se ajusta à escala de cada monitor.
+- **Arrastar** o widget para qualquer lugar; ele lembra a posição e se ajusta à escala de cada monitor. Por padrão ele fica no canto inferior esquerdo, no mesmo lugar do versículo na tela de bloqueio.
 - Não some com **Win+D** ("Mostrar área de trabalho").
 - **Atualização sem fechar:** coloque um `Lumen-novo.exe` ao lado do `Lumen.exe` e o app se troca sozinho em poucos segundos.
 
@@ -37,6 +37,7 @@ Clique com o botão direito no ícone da lamparina, perto do relógio:
 | Ler o capítulo inteiro | Abre o capítulo do versículo do dia |
 | Copiar versículo | Copia o texto e a referência |
 | Tamanho do texto | Pequeno, Médio ou Grande |
+| Voltar para a posição padrão | Leva o widget de volta ao canto inferior esquerdo |
 | Sempre por cima das janelas | Deixa o widget na frente de tudo |
 | Versículo na tela de bloqueio | Liga ou desliga a imagem da tela de bloqueio |
 | Iniciar com o Windows | Abre o Lumen ao entrar no Windows |

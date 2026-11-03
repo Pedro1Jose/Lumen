@@ -11,7 +11,7 @@
     <RootNamespace>Lumen</RootNamespace>
     <ApplicationIcon>Assets\lumen.ico</ApplicationIcon>
     <Product>Lumen</Product>
-    <Version>0.5.0</Version>
+    <Version>0.5.1</Version>
     <Company>Lumen</Company>
     <Description>Lumen - versículo do dia</Description>
     <RuntimeIdentifier>win-x64</RuntimeIdentifier>
