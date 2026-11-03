@@ -1,4 +1,4 @@
-# Versículos na Tela
+# Lumen (Versículos na Tela)
 
 App para Windows que mostra o versículo do dia.
 
@@ -30,3 +30,8 @@ Fonte do texto: https://github.com/Dancrf/biblia-db
 - `PLANO.md`: este resumo.
 - `versiculos.json`: os 366 versículos que o app lê.
 - `lista-de-versiculos.md`: a mesma lista, por mês, para leitura.
+
+## Nome e logo
+
+- Nome escolhido: **Lumen** (Salmo 118,105: "Lâmpada para os meus passos é a tua palavra").
+- Logo escolhida: **A, lamparina acesa** sobre fundo azul-noite. Arquivos finais em `logo/final/` (`lumen.svg`, `lumen.ico` para o Windows, PNGs 256 e 512). Os outros rascunhos ficam em `logo/` como referência.
