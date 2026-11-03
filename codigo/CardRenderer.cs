@@ -14,16 +14,15 @@ namespace Lumen
         private static Image? _logo;
         public static Image Logo => _logo ??= Image.FromStream(Assembly.GetExecutingAssembly().GetManifestResourceStream("lumen.png")!);
 
+        // Estilo minimalista (o padrão do Lumen): sem cartão, só a lamparina, uma linha dourada,
+        // o versículo em branco e a referência em dourado, com uma sombra suave para ler em qualquer papel de parede.
         public static Bitmap Render(Verse v, DateTime date, float scale, int widthDip = 380)
         {
             int W = (int)(widthDip * scale);
-            float pad = 20 * scale, radius = 16 * scale;
-            using var dateFont = new Font("Segoe UI Semibold", 9f * scale, GraphicsUnit.Point);
-            using var verseFont = new Font("Georgia", 13f * scale, GraphicsUnit.Point);
-            using var refFont = new Font("Segoe UI", 10f * scale, FontStyle.Italic, GraphicsUnit.Point);
-
-            var pt = new CultureInfo("pt-BR");
-            string dateStr = date.ToString("dddd, d 'de' MMMM", pt).ToUpper(pt);
+            float pad = 14 * scale;
+            using var verseFont = new Font("Georgia", 15f * scale, GraphicsUnit.Pixel);
+            using var refFont = new Font("Segoe UI", 12.5f * scale, FontStyle.Italic, GraphicsUnit.Pixel);
+            string refStr = "— " + v.Referencia;
             float textW = W - 2 * pad;
 
             SizeF verseSize, refSize;
@@ -32,52 +31,40 @@ namespace Lumen
             {
                 g0.TextRenderingHint = TextRenderingHint.AntiAlias;
                 verseSize = g0.MeasureString(v.Texto, verseFont, (int)textW);
-                refSize = g0.MeasureString(v.Referencia, refFont);
+                refSize = g0.MeasureString(refStr, refFont);
             }
 
-            float headerH = 22 * scale, gap = 10 * scale;
-            int H = (int)Math.Ceiling(pad + headerH + gap + verseSize.Height + gap + refSize.Height + pad);
-            int shadow = (int)(10 * scale);
+            float logo = 18 * scale, headerGap = 10 * scale, gap = 8 * scale;
+            int H = (int)Math.Ceiling(pad + logo + headerGap + verseSize.Height + gap + refSize.Height + pad);
 
-            var bmp = new Bitmap(W + 2 * shadow, H + 2 * shadow, System.Drawing.Imaging.PixelFormat.Format32bppArgb);
+            var bmp = new Bitmap(W, H, System.Drawing.Imaging.PixelFormat.Format32bppArgb);
             using var g = Graphics.FromImage(bmp);
             g.SmoothingMode = SmoothingMode.AntiAlias;
             g.TextRenderingHint = TextRenderingHint.AntiAlias;
-            g.Clear(Color.Transparent);
-
-            // Sombra suave
-            for (int i = shadow; i > 0; i -= Math.Max(1, shadow / 5))
-            {
-                using var sp = RoundRect(new RectangleF(shadow - i * 0.6f, shadow - i * 0.3f, W + i * 1.2f, H + i * 1.2f), radius + i);
-                using var sb = new SolidBrush(Color.FromArgb(10, 0, 0, 0));
-                g.FillPath(sb, sp);
-            }
-
-            var card = new RectangleF(shadow, shadow, W, H);
-            using (var path = RoundRect(card, radius))
-            {
-                using var bg = new LinearGradientBrush(card, Color.FromArgb(232, 0x22, 0x2E, 0x4A), Color.FromArgb(232, 0x12, 0x19, 0x2B), 90f);
-                g.FillPath(bg, path);
-                using var border = new Pen(Color.FromArgb(60, 0xFF, 0xD9, 0x8A), 1f * scale);
-                g.DrawPath(border, path);
-            }
-
-            float x = card.X + pad, y = card.Y + pad;
-            float logoSize = 20 * scale;
             g.InterpolationMode = InterpolationMode.HighQualityBicubic;
-            g.DrawImage(Logo, x, y + (headerH - logoSize) / 2, logoSize, logoSize);
-            using (var b = new SolidBrush(Color.FromArgb(0xFF, 0xD9, 0x8A)))
-                g.DrawString(dateStr, dateFont, b, x + logoSize + 8 * scale, y + (headerH - dateFont.GetHeight(g)) / 2);
-            y += headerH + gap;
+            // Fundo quase invisível: não aparece, mas deixa a área toda clicável para arrastar.
+            g.Clear(Color.FromArgb(1, 0, 0, 0));
 
-            using (var b = new SolidBrush(Color.FromArgb(0xFF, 0xF7, 0xEA)))
-                g.DrawString(v.Texto, verseFont, b, new RectangleF(x, y, textW, verseSize.Height + 4));
+            float x = pad, y = pad;
+            g.DrawImage(Logo, x, y, logo, logo);
+            using (var line = new Pen(Color.FromArgb(170, 0xE8, 0xB2, 0x4A), 1.5f * scale))
+                g.DrawLine(line, x + logo + 10 * scale, y + logo / 2, x + logo + 10 * scale + 60 * scale, y + logo / 2);
+            y += logo + headerGap;
+
+            var rect = new RectangleF(x, y, textW, verseSize.Height + 4);
+            DrawSoft(g, v.Texto, verseFont, rect, Color.FromArgb(245, 0xFF, 0xF7, 0xEA), scale);
             y += verseSize.Height + gap;
-
-            using (var b = new SolidBrush(Color.FromArgb(0xE8, 0xB2, 0x4A)))
-                g.DrawString(v.Referencia, refFont, b, card.Right - pad - refSize.Width, y);
-
+            DrawSoft(g, refStr, refFont, new RectangleF(x, y, textW, refSize.Height + 4), Color.FromArgb(0xF0, 0xBE, 0x5A), scale);
             return bmp;
+        }
+
+        private static void DrawSoft(Graphics g, string text, Font font, RectangleF r, Color color, float scale)
+        {
+            using (var sh = new SolidBrush(Color.FromArgb(40, 0, 0, 0)))
+                foreach (var (dx, dy) in new[] { (1f, 1f), (2f, 2f), (-1f, 1f), (1f, -1f), (0f, 2.5f) })
+                    g.DrawString(text, font, sh, new RectangleF(r.X + dx * scale, r.Y + dy * scale, r.Width, r.Height));
+            using var b = new SolidBrush(color);
+            g.DrawString(text, font, b, r);
         }
 
         public static GraphicsPath RoundRect(RectangleF r, float rad)
