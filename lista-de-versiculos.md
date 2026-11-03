@@ -1,0 +1,406 @@
+# Versículo do dia: lista do ano
+
+Tradução: Bíblia Sagrada, trad. Pe. Matos Soares (1956). Datas especiais: 1/1, 25/3 (Anunciação), 15/8 (Assunção), 12/10, 2/11 (Finados), 24/12 e 25/12.
+
+
+## Janeiro
+
+- **1** · O Senhor te abençoe, e te guarde. O Senhor te mostre a sua face e tenha piedade de ti. O Senhor volva o seu rosto para ti, e te dê a paz. *(Números 6,24-26)*
+- **2** · Como um pai se compadece dos seus filhos, assim se compadece o Senhor dos que o temem. *(Salmo 102,13)*
+- **3** · Bem-aventurados os puros de coração, porque verão a Deus. *(Mateus 5,8)*
+- **4** · De facto, se vivemos, vivemos para o Senhor; se morremos, morremos para o Senhor. Logo, ou vivamos ou morramos, somos do Senhor. *(Romanos 14,8)*
+- **5** · Ainda não vos surpreendeu nenhuma tentação, que ultrapassasse a medida humana. Deus, que é fiel, não permitirá que sejais tentados além do que podem as vossas forças. Em caso de tentação, dar-vos-á os meios de lhe resistir. *(1 Coríntios 10,13)*
+- **6** · Bendito seja Deus, o Pai de Nosso Senhor Jesus Cristo, que, segundo a sua grande misericórdia, nos regenerou para uma esperança viva, pela ressurreição de Jesus Cristo dentre os mortos. *(1 Pedro 1,3)*
+- **7** · Ensina-nos a contar os nossos dias, para que alcancemos a sabedoria do coração. *(Salmo 89,12)*
+- **8** · Eis que vou realizar uma obra nova (e mais maravilhosa), e ela vai já aparecer: não a conhecereis? Abrirei no deserto um caminho, e farei brotar rios numa terra inacessível. *(Isaías 43,19)*
+- **9** · Verdadeiramente a piedade é uma grande fonte de lucro, tornando-nos contentes com o que basta (para viver). *(1 Timóteo 6,6)*
+- **10** · Por isso nós, também, estando cercados por uma tão grande nuvem de testemunhas, deixando todo o peso que nos detém e o pecado que nos envolve, corramos com paciência na carreira que nos é proposta, pondo os olhos no autor e consumador da fé, Jesus, o qual, tendo-lhe sido proposto gozo, sofreu a cruz, não fazendo caso da ignomínia, e está sentado à direita do trono de Deus. *(Hebreus 12,1-2)*
+- **11** · Pelo contrário, sede benignos uns para com os outros, misericordiosos, perdoando-vos uns aos outros, como também Deus vos perdoou por Cristo. *(Efésios 4,32)*
+- **12** · Outra vez lhes falou Jesus, dizendo: "Eu sou a luz do mundo; o que me segue não anda nas trevas, mas terá a luz da vida." *(João 8,12)*
+- **13** · Não vos inquieteis com nada, mas em todas as circunstâncias manifestai a Deus as vossas necessidades por meio de orações e súplicas unidas à ação de graças. *(Filipenses 4,6)*
+- **14** · Realmente somos obra sua, criados em Jesus Cristo para (fazer) boas obras, que Deus preparou para caminharmos nelas. *(Efésios 2,10)*
+- **15** · Porque, se confessares com a tua boca o Senhor Jesus e creres no teu coração que Deus o ressuscitou dos mortos, serás salvo. *(Romanos 10,9)*
+- **16** · Sobretudo, porém tende caridade, que é o vínculo da perfeição. *(Colossenses 3,14)*
+- **17** · Se me amais, observareis os meus mandamentos. *(João 14,15)*
+- **18** · O Senhor te guiará perpetuamente, saciará a tua alma no deserto, dará vigor aos teus ossos, e serás como um jardim bem regado, como uma fonte cujas águas nunca faltarão. *(Isaías 58,11)*
+- **19** · E criou Deus o homem à sua imagem; criou-o à imagem de Deus, varão e fêmea os criou. *(Gênesis 1,27)*
+- **20** · Aproximemo-nos, pois, confiadamente do trono da graça, a fim de alcançar misericórdia e de encontrar graça, para sermos socorridos em tempo oportuno. *(Hebreus 4,16)*
+- **21** · Encomenda ao Senhor o teu caminho, espera nele, e ele agirá. *(Salmo 36,5)*
+- **22** · Servi o Senhor com alegria, vinde à sua presença com alvoroço. *(Salmo 99,2)*
+- **23** · Eu, porém, olharei para o Senhor, esperarei em Deus meu salvador; o meu Deus me ouvirá. *(Miqueias 7,7)*
+- **24** · Ó Deus, tu és o meu Deus: Busco-te com solicitude; de ti está sedenta a minha alma, deseja-te a minha carne, como terra árida e sedenta, sem água. *(Salmo 62,2)*
+- **25** · O meu preceito é este: Amai-vos uns aos outros, como eu vos amei. *(João 15,12)*
+- **26** · O Senhor combaterá por vós, e vós estai tranquilos. *(Êxodo 14,14)*
+- **27** · A caridade (de Deus) consiste nisto: em não termos sido nós os que amamos a Deus, mas em ter sido ele que nos amou e enviou o seu Filho, como vítima de propiciação pelos nossos pecados. *(1 João 4,10)*
+- **28** · Bem-aventurados os que choram, porque serão consolados. *(Mateus 5,5)*
+- **29** · Ele dá força ao fatigado e multiplica o vigor do fraco. *(Isaías 40,29)*
+- **30** · Porque o Filho do homem veio buscar e salvar o que estava perdido. *(Lucas 19,10)*
+- **31** · De facto sei os desígnios que tenho àcerca de vós, diz o Senhor, desígnios de paz, e não de aflição, no sentido de vos assegurar um futuro cheio de esperança. *(Jeremias 29,11)*
+
+## Fevereiro
+
+- **1** · Então Jesus disse aos seus discípulos: Se alguém quer vir após de mim, negue-se a si mesmo, tome a sua cruz e siga-me. *(Mateus 16,24)*
+- **2** · Jesus disse-lhe: Amarás o Senhor teu Deus de todo o teu coração, de toda a tua alma, de todo o teu espirito (Dt. 6, 4-5). Este é o maior e o primeiro mandamento. O segundo é semelhante a este: Amarás o teu próximo como a ti mesmo (Lv. 19, 18). *(Mateus 22,37-39)*
+- **3** · Entrando o anjo onde ela estava, disse-lhe: "Deus te salve, cheia de graça; o Senhor é contigo." *(Lucas 1,28)*
+- **4** · Eu sou o Alfa e o Ômega, o primeiro e o último, o princípio e o fim. *(Apocalipse 22,13)*
+- **5** · O Senhor está perto dos contritos do coração, e levanta os abatidos de espírito. *(Salmo 33,19)*
+- **6** · Tudo o que vós quereis que os homens vos façam, fazei-o também vós a eles; esta é a lei e os profetas. *(Mateus 7,12)*
+- **7** · "Desisti e reconhecei que eu sou Deus, excelso entre as gentes, e excelso sobre (toda) a terra." *(Salmo 45,11)*
+- **8** · Andai no amor, a exemplo de Cristo, que nos amou e se entregou a si mesmo por nós a Deus, como oferenda e sacrifício de suave odor. *(Efésios 5,2)*
+- **9** · Foi para gozarmos desta liberdade que Cristo nos libertou. Permanecei firmes e não vos deixeis prender de novo ao jugo da escravidão (da lei antiga). *(Gálatas 5,1)*
+- **10** · Eu, porém, me regozijarei no Senhor, e exultarei no Deus, meu salvador. *(Habacuc 3,18)*
+- **11** · Mas o Deus de toda a graça, que vos chamou em Jesus Cristo à sua eterna glória, depois que tiverdes sofrido um pouco, vos aperfeiçoará, fortificará, consolidará, vos tornará inabaláveis. *(1 Pedro 5,10)*
+- **12** · Disse-vos estas coisas, para que tenhais paz em mim. Haveis de ter aflições no mundo; mas tende confiança, eu venci o mundo. *(João 16,33)*
+- **13** · Porque foste tu que formaste os meus rins, me entreteceste no seio de minha mãe. Louvo-te, porque tão admiravelmente fui formado, porque são maravilhosas as tuas obras. Perfeitamente conheces a minha alma. *(Salmo 138,13-14)*
+- **14** · Quanto ao mais, irmãos, tudo o que é verdadeiro, tudo o que é digno, tudo o que é justo, tudo o que é santo, tudo o que é amável, tudo o que é de bom nome, qualquer virtude, qualquer coisa digna de louvor, seja isto o objeto dos vossos pensamentos. *(Filipenses 4,8)*
+- **15** · Bem-aventurados os pobres de espírito, porque deles é o reino dos céus. *(Mateus 5,3)*
+- **16** · Eu chamo hoje por testemunhas o céu e a terra, em como vos propus a vida e a morte, a bênção e a maldição. Escolhe, pois, a vida, para que vivas tu e a tua posteridade. *(Deuteronômio 30,19)*
+- **17** · Porém, Jesus, tendo ouvido o que eles diziam, disse ao príncipe da sinagoga: "Não temas; crê sòmente." *(Marcos 5,36)*
+- **18** · Ensinando-as a observar todas as coisas que vos mandei. Eu estarei convosco todos os dias, até ao fim do mundo. *(Mateus 28,20)*
+- **19** · Mas recebereis a virtude do Espírito Santo, que descerá sobre vós, e sereis minhas testemunhas em Jerusalém, em toda a Judeia, na Samaria e até às extremidades da terra. *(Atos 1,8)*
+- **20** · Conhecereis a verdade, e a verdade vos tornará livres. *(João 8,32)*
+- **21** · Tem piedade de mim, ó Deus, segundo a tua misericórdia; segundo a multidão das tuas clemências, apaga a minha iniquidade. *(Salmo 50,3)*
+- **22** · E dizia a Jesus: "Senhor, lembra-te de mim, quando entrares no teu reino." Jesus disse-lhe: "Em verdade te digo: Hoje estarás comigo no paraíso." *(Lucas 23,42-43)*
+- **23** · Sofrendo-vos uns aos outros e perdoando-vos mutuamente, se algum tem razão de queixa contra o outro. Assim como o Senhor vos perdoou a vós, também vós perdoai (uns aos outros). *(Colossenses 3,13)*
+- **24** · Se vos irardes, não pequeis; não se ponha o sol sobre a vossa ira. *(Efésios 4,26)*
+- **25** · Não te deixes vencer do mal, mas vence o mal com o bem. *(Romanos 12,21)*
+- **26** · O Senhor é misericordioso e compassivo, lento para a ira e muito clemente. *(Salmo 102,8)*
+- **27** · O ladrão não vem senão para roubar, matar e destruir. Eu vim para que elas tenham vida e estejam na abundância. *(João 10,10)*
+- **28** · Efetivamente, a palavra da cruz é uma loucura para os que se perdem, mas, para os que se salvam, isto é, para nós, é a virtude de Deus. *(1 Coríntios 1,18)*
+- **29** · Mas tratai santamente o Cristo Senhor em vossos corações, prontos sempre para responder a todo o que vos pedir razão daquela esperança que há em vós. *(1 Pedro 3,15)*
+
+## Março
+
+- **1** · Confessai, pois, os vossos pecados, uns aos outros, e orai uns pelos outros, para serdes curados, porque a oração fervorosa do justo pode muito. *(Tiago 5,16)*
+- **2** · Todas as vossas obras sejam feitas em caridade. *(1 Coríntios 16,14)*
+- **3** · Invoca-me, e eu te atenderei e te anunciarei coisas grandes e ocultas, que ignoras. *(Jeremias 33,3)*
+- **4** · Nós, portanto, amemos, porque ele nos amou primeiro. *(1 João 4,19)*
+- **5** · Com efeito, para mim o viver é Cristo, e morrer é um lucro (porque ficarei mais intimamente unido com ele). *(Filipenses 1,21)*
+- **6** · Não há, pois, agora nenhuma condenação para os que estão em Jesus Cristo. *(Romanos 8,1)*
+- **7** · Sabei isto, meus dilectíssimos irmãos: todo o homem seja pronto para ouvir, porém tardo para falar e tardo para se irar. *(Tiago 1,19)*
+- **8** · Tudo desculpa, tudo crê, tudo espera, tudo sofre. *(1 Coríntios 13,7)*
+- **9** · Porque a palavra de Deus é viva, eficaz e mais penetrante do que toda a espada de dois gumes; chega até à separação da alma e do espírito, das junturas e das medulas, e discerne os pensamentos e intenções do coração. *(Hebreus 4,12)*
+- **10** · Eis que estou à porta (do teu coração) e bato. Se alguém ouvir a minha voz e me abrir a porta, entrarei nele, cearei com ele, e ele comigo. *(Apocalipse 3,20)*
+- **11** · Tu és o meu protector e o meu escudo: espero na tua palavra. *(Salmo 118,114)*
+- **12** · Indicar-me-ás as sendas da vida (imortal), a plenitude dos gozos junto de ti, as delicias à tua direita eternamente. *(Salmo 15,11)*
+- **13** · Porém, graças a Deus, que nos deu a vitória (contra a morte) por Nosso Senhor Jesus Cristo. *(1 Coríntios 15,57)*
+- **14** · Enxugar-lhes-á todas as lágrimas dos seus olhos; não haverá mais morte, nem luto, nem grito, nem dor, porque as primeiras coisas passaram. *(Apocalipse 21,4)*
+- **15** · As minhas ovelhas ouvem a minha voz; eu conheço-as, e elas seguem-me. Eu dou-lhes a vida eterna; elas jamais hão-de perecer, e ninguém as arrebatará da minha mão. *(João 10,27-28)*
+- **16** · Eles responderam: "Crê no Senhor Jesus, e serás salvo tu e a tua família." *(Atos 16,31)*
+- **17** · Ora a fé é o fundamento das coisas que se esperam, e o argumento das que não se vêem. *(Hebreus 11,1)*
+- **18** · Sim, eu tenho por certo que os sofrimentos do tempo presente não têm proporção com a glória vindoura, que se manifestara em nós. *(Romanos 8,18)*
+- **19** · Mas foi ferido por causa das nossas iniquidades, foi despedaçado por causa dos nossos crimes; o castigo que nos devia trazer a paz, caiu sobre ele, e nós fomos sarados com os seus ferimentos. *(Isaías 53,5)*
+- **20** · Desde o nascer do sol até ao seu ocaso, seja louvado o nome do Senhor. *(Salmo 112,3)*
+- **21** · Vós, pois, também estais agora tristes, mas hei-de ver-vos de novo, e o vosso coração se alegrará, e ninguém vos tirará a vossa alegria. *(João 16,22)*
+- **22** · Esta é a confiança que temos nele: que qualquer coisa que lhe pedimos, conforme à sua vontade, ele nos ouve. *(1 João 5,14)*
+- **23** · Humilhai-vos na presença do Senhor, e ele vos exaltará. *(Tiago 4,10)*
+- **24** · Ele não está aqui, ressuscitou. Lembrai-vos do que ele vos disse, quando estava na Galileia. *(Lucas 24,6)*
+- **25** · Então Maria disse: "Eis aqui a serva do Senhor, faça-se em mim a tua palavra." E o anjo afastou-se dela. *(Lucas 1,38)*
+- **26** · Jesus respondeu: "Está escrito: Não só de pão vive o homem, mas de toda a palavra que sai da boca de Deus (Dt. 8, 3)." *(Mateus 4,4)*
+- **27** · A caridade não faz mal ao próximo. Logo, o amor é o complemento da lei. *(Romanos 13,10)*
+- **28** · E a paz de Deus, que está acima de todo o entendimento, guarde os vossos corações e os vossos espíritos em Jesus Cristo. *(Filipenses 4,7)*
+- **29** · Ao contrário, o fruto do Espírito é caridade, gozo, paz, longanimidade, afabilidade, bondade, fidelidade. *(Gálatas 5,22)*
+- **30** · Dou-vos um novo mandamento: Que vos ameis uns aos outros, que, assim como vos amei, vos ameis também uns aos outros. *(João 13,34)*
+- **31** · Sairá uma vara do tronco de Jessé, e um rebento brotará da sua raiz. Repousará sobre ele o Espírito do Senhor, espírito de sabedoria e de entendimento, espírito de conselho e de fortaleza, espírito de ciência e de piedade. *(Isaías 11,1-2)*
+
+## Abril
+
+- **1** · Iavé, meu Senhor, é a minha fortaleza, ele que torna os meus pés (velozes) como os dos veados e me faz andar sobre as cumeadas. Ao regente do canto. Para instrumentos de corda. *(Habacuc 3,19)*
+- **2** · Apascentarei, eu próprio, as minhas ovelhas, fá-las-ei repousar, diz o Senhor Deus. Irei procurar a perdida, farei voltar a desgarrada, pensarei a ferida, fortalecerei a fraca, conservarei a gorda e forte, apascentarei com justiça. *(Ezequiel 34,15-16)*
+- **3** · Eu serei o teu protector, para onde quer que fores, e te reconduzirei a esta terra, e não te abandonarei sem cumprir tudo o que disse. *(Gênesis 28,15)*
+- **4** · Disse: O Senhor é o meu rochedo, a minha fortaleza, o meu Salvador. Deus é a minha defesa, nele esperarei. É o meu escudo e o sustentáculo da minha salvação. Ele me exalta e é o meu refúgio. Ó meu Salvador, tu me livraste da iniquidade. *(2 Samuel 22,2-3)*
+- **5** · Eu louvarei o Senhor durante a minha vida; cantarei salmos ao meu Deus enquanto existir. *(Salmo 145,2)*
+- **6** · Sem fé é impossível agradar-lhe: de fato, é necessário que o que se aproxima de Deus, creia que ele existe e que é remunerador dos que o buscam. *(Hebreus 11,6)*
+- **7** · Porque eu estou certo que nem a morte, nem a vida, nem os anjos, nem os principados, nem as coisas presentes, nem as futuras, nem as virtudes, nem a altura, nem a profundidade, nem nenhuma outra criatura nos poderá separar do amor que Deus nos manifesta em Jesus Cristo Nosso Senhor. *(Romanos 8,38-39)*
+- **8** · Vigiai e orai, para que não entreis em tentação. O espírito na verdade está pronto, mas a carne é fraca. *(Mateus 26,41)*
+- **9** · O povo, que andava nas trevas, viu uma grande luz; aos que habitavam na região da sombra da morte uma luz apareceu. *(Isaías 9,2)*
+- **10** · Por graça do Senhor não fomos consumidos (inteiramente); sim, as suas comiserações não se esgotaram. Elas renovam-se todas as manhãs; grande é (ó Senhor) a tua fidelidade. *(Lamentações 3,22-23)*
+- **11** · Ora nós sabemos que todas as coisas concorrem para o bem daqueles que amam a Deus, para o bem daqueles que, segundo o seu desígnio, foram chamados. *(Romanos 8,28)*
+- **12** · Perseveravam na doutrina dos Apóstolos, nas reuniões comuns, na fracção do pão e nas orações. *(Atos 2,42)*
+- **13** · Alegres na esperança; pacientes na tribulação; perseverantes na oração. *(Romanos 12,12)*
+- **14** · Nisto conhecerão todos que sois meus discípulos, se tiverdes amor uns aos outros. *(João 13,35)*
+- **15** · Dai glória ao Senhor, porque é bom, porque a sua misericórdia é eterna. *(1 Crônicas 16,34)*
+- **16** · Jesus respondeu-lhes: Eu sou o pão da vida; o que vem a mim, não terá jamais fome, e o que crê em mim, não terá jamais sede. *(João 6,35)*
+- **17** · Clemente e misericordioso é o Senhor, tardo para a ira e de muita benignidade. *(Salmo 144,8)*
+- **18** · Recomenda ao Senhor as tuas obras, e terão bom êxito os teus projectos. *(Provérbios 16,3)*
+- **19** · Àquele que é poderoso para fazer todas as coisas mais abundantemente do que pedimos ou entendemos, segundo a virtude que opera em nós. *(Efésios 3,20)*
+- **20** · A caridade é paciente, é benéfica; a caridade não é invejosa, não é temerária; não se ensoberbece. *(1 Coríntios 13,4)*
+- **21** · E a luz resplandece nas trevas, e as trevas não o receberam. *(João 1,5)*
+- **22** · Conservemos firme a profissão da nossa esperança, porque é fiel o que fez a promessa. *(Hebreus 10,23)*
+- **23** · Quando passares por entre as águas (dos perigos), eu serei contigo, e os rios não te submergirão; quando andares por entre o fogo, não serás queimado, e a chama não arderá em ti. *(Isaías 43,2)*
+- **24** · Tomai sobre vós o meu jugo, e aprendei de mim, que sou manso e humilde de coração, e achareis descanso para as vossas almas. Porque o meu jugo é suave, e o meu peso leve. *(Mateus 11,29-30)*
+- **25** · O Rei, respondendo, lhes dirá: Na verdade vos digo que todas as vezes que vós fizestes isto a um destes meus irmãos mais pequeninos, a mim o fizestes. *(Mateus 25,40)*
+- **26** · Porém ele disse: "Antes bem-aventurados aqueles que ouvem a palavra de Deus, e a põem em prática." *(Lucas 11,28)*
+- **27** · Eu sou o Senhor, o Deus de toda a carne; haverá pois coisa alguma que me seja impossível? *(Jeremias 32,27)*
+- **28** · Nada façais por espírito de partido ou por vanglória, mas cada um, por humildade, considere os outros superiores a si. *(Filipenses 2,3)*
+- **29** · Porventura (respondeu o Senhor) pode uma mulher esquecer-se do seu menino de peito, não ter compaixão do filho das suas entranhas? Porém, ainda que ela se esquecesse dele, eu não me esqueceria de ti. *(Isaías 49,15)*
+- **30** · Toda a Escritura divinamente inspirada é útil para ensinar, para repreender, para corrigir, para formar na justiça. *(2 Timóteo 3,16)*
+
+## Maio
+
+- **1** · Combate o bom combate da fé, conquista a vida eterna, para a qual foste chamado e fizeste uma bela confissão (da divindade de Jesus) diante de muitas testemunhas. *(1 Timóteo 6,12)*
+- **2** · Porém, os que esperam no Senhor, adquirem sempre novas forças, terão asas como de águia, correrão e não se fatigarão, andarão e não desfalecerão. *(Isaías 40,31)*
+- **3** · Tudo posso naquele que me conforta. *(Filipenses 4,13)*
+- **4** · Combati, até ao fim, o bom combate, acabei a minha carreira, guardei a fé. *(2 Timóteo 4,7)*
+- **5** · Meus filhinhos, não amemos (somente) de palavra e com a língua, mas por obra e em verdade. *(1 João 3,18)*
+- **6** · Agora permanecem (como necessárias para todos) estas três coisas: a fé, a esperança, a caridade; porém, a maior delas é a caridade. *(1 Coríntios 13,13)*
+- **7** · Assim brilhe a vossa luz diante dos homens, para que vejam as vossas boas obras, e glorifiquem o vosso Pai, que está nos céus. *(Mateus 5,16)*
+- **8** · O Senhor guarde a tua entrada e a tua saída, desde agora e para sempre. *(Salmo 120,8)*
+- **9** · Não há maior amor do que dar a própria vida pelos seus amigos. *(João 15,13)*
+- **10** · Bem-aventurado o homem que confia no Senhor, e de quem o Senhor é a esperança. *(Jeremias 17,7)*
+- **11** · Confia em Deus, e ele te salvará, dirige bem o teu caminho e espera nele; conserva o seu temor até à velhice. *(Eclesiástico 2,6)*
+- **12** · Guarda-me, ó Deus, porque a ti recorro, digo ao Senhor: "Tu és o meu Senhor, fora de ti não tenho nenhum bem." *(Salmo 15,1-2)*
+- **13** · Só em Deus repousa a minha alma, dele vem a minha salvação. Só ele é o meu rochedo e a minha salvação, o meu baluarte: por nada vacilarei. *(Salmo 61,2-3)*
+- **14** · Disse-lhes: Ide por todo o mundo, pregai o Evangelho a toda a criatura. *(Marcos 16,15)*
+- **15** · Meus irmãos, tende por um motivo da maior alegria toda a espécie de tribulações que vos afligem, sabendo que a prova da vossa fé produz a constância. *(Tiago 1,2-3)*
+- **16** · Porque o Senhor Deus, o Santo de Israel, diz assim: Se vos converterdes e vos deixardes estar em calma, sereis salvos; a vossa fortaleza estará no repouso e na confiança. Mas vós não quisestes. *(Isaías 30,15)*
+- **17** · Bendirei o Senhor em todo o tempo: o seu louvor estará sempre na minha boca. *(Salmo 33,2)*
+- **18** · Em tudo vos mostrei que, trabalhando assim, é preciso acudir aos fracos, e lembrar-se das palavras do Senhor Jesus, porquanto ele mesmo disse: "É maior ventura dar, que receber." *(Atos 20,35)*
+- **19** · Farei (sair) de ti um grande povo, e te abençoarei, engrandecerei o teu nome e serás bendito. *(Gênesis 12,2)*
+- **20** · Logo que me deito, em paz adormeço, porque só tu, ó Senhor, me pões em segurança. *(Salmo 4,9)*
+- **21** · No princípio criou Deus o céu e a terra. *(Gênesis 1,1)*
+- **22** · Mas disse-me: "Basta-te a minha graça, porque é na fraqueza que o (meu) poder se manifesta por completo." Portanto, de boa vontade me gloriarei nas minhas fraquezas, para que habite em mim o poder de Cristo. *(2 Coríntios 12,9)*
+- **23** · O Senhor é bom, é um refúgio (para seus filhos) no dia da tribulação; conhece (e protege) os que esperam nele. *(Naum 1,7)*
+- **24** · Nestes termos: Seja bem-dito o nome do Senhor, de século em século, porque dele são a sabedoria e a fortaleza. *(Daniel 2,20)*
+- **25** · O que come a minha carne e bebe o meu sangue, tem a vida eterna, e eu o ressuscitarei no último dia. *(João 6,54)*
+- **26** · E disse: Nu saí do ventre de minha mãe, e nu tornarei para lá (para o seio da terra); o Senhor o deu, o Senhor o tirou, como foi do agrado do Senhor, assim sucedeu; bendito seja o nome do Senhor. *(Jó 1,21)*
+- **27** · Eis que a Virgem conceberá e dará à luz um filho, e lhe porão o nome de Emanuel, que significa: Deus connosco (Is. 7, 14). *(Mateus 1,23)*
+- **28** · Ninguém despreze a tua mocidade; sê, porém, modelo dos fiéis na palavra, no modo de tratar com o próximo, na caridade, na fé, na castidade. *(1 Timóteo 4,12)*
+- **29** · Humilhai-vos, pois, sob a mão poderosa de Deus, para que ele vos exalte no tempo determinado. Descarregai sobre ele todas as vossas preocupações, porque ele tem cuidado de vós. *(1 Pedro 5,6-7)*
+- **30** · Que darei eu em retribuição ao Senhor, por todos os benefícios que me tem feito? Tomarei o cálice da salvação, e invocarei o nome do Senhor. *(Salmo 115,12-13)*
+- **31** · Mostra-me, Senhor, os teus caminhos, ensina-me as tuas veredas. Dirige-me na tua verdade e ensina-me, porque tu és o Deus meu Salvador: em ti espero sempre. *(Salmo 24,4-5)*
+
+## Junho
+
+- **1** · Porém se confessamos (com humildade e arrependimento) os nossos pecados, (Deus) é fiel e justo para no-Ios perdoar e para nos purificar de toda a iniquidade. *(1 João 1,9)*
+- **2** · O Senhor, que é o vosso guia, ele mesmo será contigo; não te deixará, nem te desamparará: não temas, nem te assustes. *(Deuteronômio 31,8)*
+- **3** · Sede, pois, realizadores da palavra, e não ouvintes sòmente, enganando-vos a vós mesmos. *(Tiago 1,22)*
+- **4** · Deus, com efeito, não nos deu (em nossa ordenação) um espírito de timidez, mas de fortaleza, de caridade e de temperança. *(2 Timóteo 1,7)*
+- **5** · Não fostes vós que me escolhestes, mas fui eu que vos escolhi a vós, e vos destinei para que vades e deis fruto, e para que o vosso fruto permaneça, a fim de que tudo o que pedirdes a meu Pai em meu nome, ele vo-lo conceda. *(João 15,16)*
+- **6** · Buscai, pois, em primeiro lugar, o reino de Deus e a sua justiça, e todas estas coisas vos serão dadas por acréscimo. *(Mateus 6,33)*
+- **7** · Porque a Deus nada é impossível. *(Lucas 1,37)*
+- **8** · Bem-aventurados os misericordiosos, porque alcançarão misericórdia. *(Mateus 5,7)*
+- **9** · Por isso pedi a prudência, e ela me foi dada; invoquei (o Senhor) e veio a mira o espírito da sabedoria. *(Sabedoria 7,7)*
+- **10** · Toda a dádiva excelente, todo o dom perfeito vem do alto e desce do Pai das luzes, no qual não há mudança, nem sombra de vicissitude. *(Tiago 1,17)*
+- **11** · Considerai que amor nos mostrou o Pai (em querer) que sejamos chamados filhos de Deus! E nós o somos. O mundo não nos conhece, porque não o conhece a ele. *(1 João 3,1)*
+- **12** · A resposta branda aquieta a ira; a palavra dura excita o furor. A língua dos sábios torna amável a ciência; da boca dos insensatos derrama-se a loucura. *(Provérbios 15,1)*
+- **13** · Olhai para as aves do céu, que não semeiam, nem ceifam, nem fazem provisões nos celeiros, e contudo vosso Pai celeste as sustenta. Porventura não valeis vós muito mais do que elas? *(Mateus 6,26)*
+- **14** · Sejam os vossos costumes isentos de avareza, contentando-vos com o que tendes, porque ele mesmo disse: Não te deixarei, nem te abandonarei (Dt. 31, 6). *(Hebreus 13,5)*
+- **15** · Conservai-vos no amor de Deus, esperando a misericórdia de Nosso Senhor Jesus Cristo para (alcançar) a vida eterna. *(Judas 1,21)*
+- **16** · Como uma mãe acaricia o seu filhinho, assim eu vos consolarei, e em Jerusalém sereis consolados. *(Isaías 66,13)*
+- **17** · Com toda a humildade, mansidão e paciência, suportando-vos uns aos outros por caridade. *(Efésios 4,2)*
+- **18** · Na caridade não há temor; a caridade perfeita lança fora o temor, porque o temor supõe pena; (por isso) aquele que teme, não é perfeito na caridade. *(1 João 4,18)*
+- **19** · Nas tuas mãos encomendo o meu espírito: vós me libertareis, ó Senhor, Deus fiel. *(Salmo 30,6)*
+- **20** · Se algum, pois, está em Cristo (por meio do batismo), é uma nova criatura: passaram as coisas velhas; eis que tudo se fez novo. *(2 Coríntios 5,17)*
+- **21** · Transponde as suas portas com louvor, os seus átrios com hinos; exaltai-o, bendizei o seu nome. Porque o Senhor é bom, a sua misericórdia é eterna, e a sua fidelidade permanece de geração em geração. *(Salmo 99,4-5)*
+- **22** · O mesmo sucede com a palavra, que sai da minha boca; não torna para mim vazia, mas faz tudo o que eu quero, produz os efeitos para os quais a enviei. *(Isaías 55,11)*
+- **23** · E’ por isto que não desfalecemos; antes, pelo contrário, embora se destrua em nós o homem exterior, todavia o (homem) interior vai-se renovando de dia para dia. *(2 Coríntios 4,16)*
+- **24** · Efectivamente a sua indignação dura um instante, e a sua benevolência dura toda a vida. De tarde estaremos em lágrimas, e de manhã em alegria. *(Salmo 29,6)*
+- **25** · Salta de alegria, ó filha de Sião, enche-te de júbilo, ó filha de Jerusalém. Eis que o teu rei vem a ti, justo e vitorioso; ele é humilde e vem montado sobre um jumento, sobre o potrinho duma jumenta. *(Zacarias 9,9)*
+- **26** · E eu digo-te que tu és Pedro, e sobre esta pedra edificarei a minha Igreja, e as portas do inferno não prevalecerão contra ela. *(Mateus 16,18)*
+- **27** · Buscar-me-eis e me achareis, quando me buscardes de todo o vosso coração. *(Jeremias 29,13)*
+- **28** · Amai-vos reciprocamente com caridade fraternal, adiantando-vos em honrar uns aos outros. *(Romanos 12,10)*
+- **29** · Pedro disse-lhes: Fazei penitência, e cada um de vós seja baptizado, em nome de Jesus Cristo, para remissão de vossos pecados; e recebereis, então, dom do Espírito Santo. *(Atos 2,38)*
+- **30** · Seca o feno, murcha a flor, mas a palavra de nosso Senhor permanece para sempre. *(Isaías 40,8)*
+
+## Julho
+
+- **1** · O que dá testemunho destas coisas, diz: "Sim, venho sem demora." Amen. Vem, Senhor Jesus. *(Apocalipse 22,20)*
+- **2** · Põe as tuas delícias no Senhor, e te concederá o que o teu coração deseja. *(Salmo 36,4)*
+- **3** · Por isso vos digo: Tudo o que pedirdes na oração, crede que o haveis de conseguir, e que o obtereis. *(Marcos 11,24)*
+- **4** · Não nos cansemos, pois, de fazer o bem, porque a seu tempo colheremos, não desfalecendo. *(Gálatas 6,9)*
+- **5** · Tudo o que respira louve o Senhor! Aleluia. *(Salmo 150,6)*
+- **6** · Assim também a fé, se não tiver obras, é morta em si mesma. *(Tiago 2,17)*
+- **7** · Jesus disse-lhe: Eu sou o caminho, a verdade e a vida; ninguém vai ao Pai senão por mim. *(João 14,6)*
+- **8** · Aquele que teme o Senhor de nada tremerá, e não terá pavor algum, porque ele mesmo é a sua esperança. *(Eclesiástico 34,16)*
+- **9** · Gostai e vede como o Senhor é bom; ditoso o homem que a ele se acolhe. *(Salmo 33,9)*
+- **10** · Mas, como está escrito: Nem o olho viu, nem o ouvido ouviu, nem entrou no coração do homem (Is. 64, 4), o que Deus preparou para aqueles que o amam. *(1 Coríntios 2,9)*
+- **11** · Mas o que beber da água que eu lhe der, jamais terá sede: a água que eu lhe der, virá a ser nele uma fonte de água que salte para a vida eterna. *(João 4,14)*
+- **12** · O amigo fiel é uma forte protecção; quem o encontrou, encontrou um tesouro. *(Eclesiástico 6,14)*
+- **13** · Porque caminhamos (para ele) pela fé, e não pela visão. *(2 Coríntios 5,7)*
+- **14** · Os céus publicam a glória de Deus, e o firmamento anuncia a obra das suas mãos. *(Salmo 18,2)*
+- **15** · Aproximai-vos de Deus, e ele se aproximará de vós. Lavai, pecadores, as mãos e purificai os corações, ó duplos de espirito. *(Tiago 4,8)*
+- **16** · Se o meu povo, sobre que foi invocado o meu nome, convertendo-se, me rogar e buscar a minha face, e fizer penitência dos seus maus caminhos, eu também o ouvirei do céu, perdoarei os seus pecados e purificarei a sua terra. *(2 Crônicas 7,14)*
+- **17** · Porventura não te ordenei: tem ânimo, e sê forte? — Não tenhas, pois, medo nem temor, porque o Senhor teu Deus está contigo em qualquer parte para onde vás. *(Josué 1,9)*
+- **18** · Todas as coisas que Deus fez são boas, no seu tempo. Além disso, pôs no seu coração a duração inteira, sem que ninguém possa compreender a obra divina, dum extremo ao outro. *(Eclesiastes 3,11)*
+- **19** · Põe-me como um selo sobre o teu coração, como um selo sobre o teu braço. porque o amor é forte como a morte, o zelo do amor é duro como a habitação dos mortos. Os seus ardores são ardores de fogo, os seus fogos são fogos do Senhor. As muitas águas não poderiam extinguir o amor, nem os rios teriam força para o submergir. Se um homem desse todas as riquezas de sua casa pelo amor, ele o desprezaria como um nada. *(Cântico dos Cânticos 8,6-7)*
+- **20** · O Senhor é a minha fortaleza, para ele o meu louvor. Foi a minha salvação. Ele é o meu Deus, eu o glorificarei; o Deus de meu pai, eu o exaltarei. *(Êxodo 15,2)*
+- **21** · Bem-aventurados os mansos, porque possuirão a Terra. *(Mateus 5,4)*
+- **22** · De longe (responde Israel) se me deixou ver o Senhor. Eu amei-te (continua o Senhor) com amor eterno; por isso, mantive o meu favor para contigo. *(Jeremias 31,3)*
+- **23** · E dizendo: Está completo o tempo e aproxima-se o reino de Deus; fazei penitência, crede no Evangelho. *(Marcos 1,15)*
+- **24** · Aquele que é amigo (verdadeiro) é o em todo o tempo; torna-se um irmão no tempo da desventura. *(Provérbios 17,17)*
+- **25** · Ele sara os atribulados de coração, e liga as suas chagas. *(Salmo 146,3)*
+- **26** · Eu sou o bom pastor. O bom pastor expõe a sua vida pelas suas ovelhas. *(João 10,11)*
+- **27** · Santo e salutar pensamento este de orar pelos mortos. Eis porque ofereceu um sacrifício expiatório pelos defuntos, para que fossem livres dos seus pecados. *(2 Macabeus 12,46)*
+- **28** · O Senhor é a minha luz e a minha salvação: a quem temerei? O Senhor é o baluarte da minha vida, diante de quem tremerei? *(Salmo 26,1)*
+- **29** · Cada um ponha ao serviço dos outros o dom que recebeu, como bons despenseiros da multiforme graça de Deus. *(1 Pedro 4,10)*
+- **30** · Buscai o Senhor, enquanto se pode encontrar; invocai-o, enquanto está perto. *(Isaías 55,6)*
+- **31** · Já te foi mostrado, ó homem, (responde o profeta) o que te é bom, o que o Senhor requer de ti: que pratiques a justiça, que ames a bondade e que andes humildemente diante do teu Deus. *(Miqueias 6,8)*
+
+## Agosto
+
+- **1** · Assim como a cerva suspira pelas fontes das águas, assim a minha alma suspira por ti, ó Deus. A minha alma tem sede de Deus, de Deus vivo: quando irei e contemplarei a face de Deus? *(Salmo 41,2-3)*
+- **2** · Dai, e dar-se-vos-à. Uma medida boa, cheia, recalcada e acogulada, vos será lançada nas dobras do vosso vestido. Porque, com a mesma medida com que medirdes para os outros, será medido para vós. *(Lucas 6,38)*
+- **3** · Porque onde está o teu tesouro, aí está também o teu coração. *(Mateus 6,21)*
+- **4** · De resto, irmãos, fortalecei-vos no Senhor, no seu poder soberano. *(Efésios 6,10)*
+- **5** · Entretanto eis o que diz o Senhor que te criou, ó Jacob, que te formou, ó Israel: Não temas, porque eu te remi e te chamei pelo teu nome; tu és meu. *(Isaías 43,1)*
+- **6** · A graça é enganadora, e a formosura é vã; a mulher que teme ao Senhor, essa será louvada. *(Provérbios 31,30)*
+- **7** · Quem não ama, não conheceu a Deus, porque Deus é caridade. *(1 João 4,8)*
+- **8** · Tudo o que fizerdes, fazei-o de boa vontade, como (quem o faz) pelo Senhor e não pelos homens. *(Colossenses 3,23)*
+- **9** · Estai sempre alegres; orai sem cessar; por tudo dai graças (a Deus), porque esta é a vontade de Deus, em Jesus Cristo, em relação a todos vós. *(1 Tessalonicenses 5,16-18)*
+- **10** · Não sabeis que sois templo de Deus e que o Espírito de Deus habita em vós? *(1 Coríntios 3,16)*
+- **11** · O Senhor disse-lhe: A minha face irá diante de ti, e eu te darei descanso. *(Êxodo 33,14)*
+- **12** · Tu, porém, quando orares, entra no teu quarto, e, fechada a porta, ora a teu Pai em segredo; e teu Pai, que vê (o que se passa) em segredo, te dará a recompensa. *(Mateus 6,6)*
+- **13** · Deus é nosso refúgio e nossa força; grandemente se tem mostrado (nosso) auxílio nas angústias. *(Salmo 45,2)*
+- **14** · Que diremos, pois, à vista destas coisas? Se Deus é por nós, quem será contra nós? *(Romanos 8,31)*
+- **15** · Então Maria disse: A minha alma glorifica o Senhor; e o meu espírito exulta em Deus meu Salvador. *(Lucas 1,46-47)*
+- **16** · Irmãos, não julgo ter já alcançado a meta (da perfeição cristã). Mas somente faço uma coisa: esquecendo-me do que fica para trás e avançando para as coisas que estão adiante, prossigo para a meta, para o prêmio da celeste vocação de Deus em Jesus Cristo. *(Filipenses 3,13-14)*
+- **17** · Jesus respondeu-lhe: Se alguém me ama, guardará a minha palavra, e meu Pai o amará, e nós viremos a ele, e faremos nele a nossa morada. *(João 14,23)*
+- **18** · Descarrega sobre o Senhor os teus cuidados, e ele te sustentará: não permitirá jamais que o justo vacile. *(Salmo 54,23)*
+- **19** · Levanta-te e resplandece! Chegou a tua luz, e glória do Senhor ergueu-se sobre ti. *(Isaías 60,1)*
+- **20** · Sobretudo tende uns para com os outros uma caridade ardente, porque a caridade cobre uma multidão de pecados (Pv. 10, 12) (levando Deus a perdoá-los). *(1 Pedro 4,8)*
+- **21** · Ide, pois, ensinai todas as gentes, baptizando-as em nome do Pai, e do Filho, e do Espírito Santo. *(Mateus 28,19)*
+- **22** · Vinde, regozijemo-nos no Senhor, aclamemos a Rocha da nossa salvação: apresentemo-nos diante dele com louvores, com cânticos regozijemo-nos diante dele. *(Salmo 94,1-2)*
+- **23** · E ouvi a voz do Senhor que dizia: Quem enviarei eu? e quem irá por nós? Então eu disse: Aqui me tens, envia-me. *(Isaías 6,8)*
+- **24** · O Espírito ajuda também a nossa fraqueza, porque não sabemos o que havemos de pedir, como convém, mas o mesmo Espírito ora por nós com gemidos inefáveis. O Espírito ajuda também a nossa fraqueza, porque não sabemos o que havemos de pedir, como convém, mas o mesmo Espírito ora por nós com gemidos inefáveis. *(Romanos 8,26)*
+- **25** · Justificados, pois, pela fé, tenhamos paz com Deus, por meio de Nosso Senhor Jesus Cristo. *(Romanos 5,1)*
+- **26** · Tende entre vós os mesmos sentimentos que se deve ter em Jesus Cristo. *(Filipenses 2,5)*
+- **27** · Jesus disse-lhe: "Tu creste, Tomé, porque me viste; bem-aventurados os que crerem sem ter visto." *(João 20,29)*
+- **28** · Porque também o Filho do homem não veio para ser servido, mas para servir, e para dar a sua vida para redenção de muitos. *(Marcos 10,45)*
+- **29** · E boa a oração acompanhada do jejum, e dar esmola vale mais do que juntar tesouros de ouro. *(Tobias 12,8)*
+- **30** · O nome do Senhor é uma torre fortíssima; aí se acolhe o justo e encontra um refúgio seguro. *(Provérbios 18,10)*
+- **31** · O Deus, pois, da esperança vos encha de todo o gozo e de paz na (vossa) fé, para que abundeis na esperança pela virtude do Espírito Santo. *(Romanos 15,13)*
+
+## Setembro
+
+- **1** · Jesus disse-lhe: Eu sou a ressurreição e a vida; o que crê em mim, ainda que esteja morto, viverá. *(João 11,25)*
+- **2** · Deixo-vos a paz, dou-vos a minha paz; não vo-la dou, como a dá o mundo. Não se turbe o vosso coração, nem se assuste. *(João 14,27)*
+- **3** · No principio existia o Verbo, e o Verbo estava junto de Deus, e o Verbo era Deus. *(João 1,1)*
+- **4** · Porque mandou aos seus anjos em teu favor, que te guardem em todos os teus caminhos. *(Salmo 90,11)*
+- **5** · Eu sou o Alfa e o Ômega, diz o Senhor Deus, aquele que é, que era e que vem, o Todo-poderoso. *(Apocalipse 1,8)*
+- **6** · Tu que vives sob a protecção do Altíssimo, que moras à sombra do Omnipotente, diz ao Senhor: "Meu refúgio e meu baluarte, meu Deus, em quem confio." *(Salmo 90,1-2)*
+- **7** · Rasgai os vossos corações, e não as vossas vestes, e (contritos no vosso inferior) convertei-vos ao Senhor vosso Deus, porque ele é benigno e compassivo, paciente e de muita misericórdia. Inclinado a arrepender-se do castigo que inflige. *(Joel 2,13)*
+- **8** · Procedei varonilmente, tende coragem; não temais nem tremais, à vista deles, porque o Senhor vosso Deus é ele mesmo o guia, que não vos deixará, nem desamparará. *(Deuteronômio 31,6)*
+- **9** · Eis que eu te gravei nas minhas mãos; as tuas muralhas estão sempre diante dos meus olhos. *(Isaías 49,16)*
+- **10** · Tudo o que fizerdes, em palavras ou por obras, fazei tudo em nome do Senhor Jesus, dando por ele graças a Deus Pai. *(Colossenses 3,17)*
+- **11** · Porque o que eu quero é o amor, e não os sacrifícios, o conhecimento de Deus mais que os holocaustos. *(Oseias 6,6)*
+- **12** · É bom esperar em silêncio a salvação (que vem de) Deus. *(Lamentações 3,26)*
+- **13** · Porque eu sei que o meu Redentor vive, e que surgirá finalmente na terra. *(Jó 19,25)*
+- **14** · Levai os fardos uns dos outros: desta maneira, cumprireis a lei de Cristo. *(Gálatas 6,2)*
+- **15** · Obras do Senhor, bem-dizei todas o Senhor, louvai-o e exaltai-o por todos os séculos. *(Daniel 3,57)*
+- **16** · Porque Deus não enviou seu Filho ao mundo, para condenar o mundo, mas para que o mundo seja salvo por ele. *(João 3,17)*
+- **17** · Bem-aventurados os pacíficos, porque serão chamados filhos de Deus. *(Mateus 5,9)*
+- **18** · Assim vos digo eu que haverá júbilo entre os anjos de Deus por um só pecador que faça penitência. *(Lucas 15,10)*
+- **19** · Exerça-se, Senhor, sobre nós a tua misericórdia, segundo esperamos em ti. *(Salmo 32,22)*
+- **20** · Não atendendo nós às coisas que se vêem, mas sim às que se não vêem. Com efeito, as coisas que se vêem são passageiras; as que não se vêem, são eternas. *(2 Coríntios 4,18)*
+- **21** · Não vos preocupeis, pois, demasiadamente, pelo dia de amanhã; o dia de amanhã terá as suas preocupações próprias. A cada dia basta o seu cuidado. *(Mateus 6,34)*
+- **22** · Porém, se andamos na luz (da verdade e da santidade), como ele mesmo também está na luz, temos comunhão recíproca, e o sangue de Jesus Cristo, seu Filho, nos purifica de todo o pecado. *(1 João 1,7)*
+- **23** · O espírito do Senhor repousa sobre mim, porque o Senhor me ungiu. Enviou-me a levar a boa nova aos infelizes, a curar os de coração despedaçado, a anunciar a redenção aos cativos e a liberdade aos encarcerados. *(Isaías 61,1)*
+- **24** · Bem-aventurado o homem que teme o Senhor, que põe as suas delícias nos seus mandamentos. *(Salmo 111,1)*
+- **25** · Não retarda o Senhor a sua promessa, como alguns pensam, mas usa de paciência convosco, não querendo que nenhum pereça, mas que todos se convertam à penitência. *(2 Pedro 3,9)*
+- **26** · Não há quem seja santo como o Senhor, porque não há outro (Deus) fora de ti, não há quem seja forte como o nosso Deus. *(1 Samuel 2,2)*
+- **27** · Levanto os meus olhos para os montes: donde me virá o socorro? O meu socorro vem do Senhor, que fez o céu e a terra. *(Salmo 120,1-2)*
+- **28** · Mas Deus manifesta a sua caridade para connosco, porque, quando ainda éramos pecadores, então morreu Cristo por nós. *(Romanos 5,8)*
+- **29** · Eu te instruirei (disseste), e ensinar-te-ei o caminho que deves seguir; eu te instruirei, tendo fixos sobre ti os meus olhos. *(Salmo 31,8)*
+- **30** · Disse: Clamei ao Senhor no meio da minha tribulação, e ele ouviu-me. Clamei do ventre do sepulcro, e tu ouviste a minha voz. *(Jonas 2,3)*
+
+## Outubro
+
+- **1** · Vós sois a luz do mundo. Não pode esconder-se uma cidade situada sobre um monte. *(Mateus 5,14)*
+- **2** · Ainda que eu ande por um vale tenebroso, não temerei males, porque tu estás comigo. A tua vara e o teu báculo: são eles que me consolam. *(Salmo 22,4)*
+- **3** · Caríssimos, amemo-nos uns aos outros, porque a caridade vem de Deus. Todo o que (assim) ama, nasceu de Deus e conhece a Deus. *(1 João 4,7)*
+- **4** · O Senhor é bom para o que nele espera, para a alma que o busca. *(Lamentações 3,25)*
+- **5** · Bendiz, ó minha alma, o Senhor, e todas as coisas que há dentro de mim (bendigam) o seu santo nome. Bendiz, ó minha alma, o Senhor, e não esqueças nenhum dos seus benefícios. *(Salmo 102,1-2)*
+- **6** · O coração do homem pensa no caminho a seguir, mas ao Senhor pertence dirigir os seus passos. *(Provérbios 16,9)*
+- **7** · Esperei, esperei no Senhor, e ele inclinou-se para mim e ouviu o meu clamor. *(Salmo 39,2)*
+- **8** · Depois disto, acontecerá que derramarei o meu espírito sobre toda a carne; os vossos filhos e as vossas filhas profetizarão, os vossos velhos terão (comunicações por melo de) sonhos, e os vossos jovens terão visões. *(Joel 2,28)*
+- **9** · Os que confiam no Senhor são (firmes) como o monte de Sião, que não é abalado, que permanece para sempre. *(Salmo 124,1)*
+- **10** · E o que estava sentado no trono disse: "Eis que renovo todas as coisas." E ajuntou: "Escreve, porque estas palavras são seguras e autênticas." *(Apocalipse 21,5)*
+- **11** · Porque pela graça fostes salvos, mediante a fé, e isto não (vem) de vós, porque é um dom de Deus. *(Efésios 2,8)*
+- **12** · Depois disse ao discípulo: "Eis a tua Mãe." E, desta hora por diante, a levou o discípulo para sua casa. *(João 19,27)*
+- **13** · Se algum de vós necessita de sabedoria, peça-a a Deus, que a todos dá liberalmente e não lança em rosto, e ser-lhe-á concedida. *(Tiago 1,5)*
+- **14** · Porque os meus pensamentos não são os vossos pensamentos, nem os vossos caminhos são os meus caminhos, diz o Senhor. Quanto os céus estão elevados acima da terra, tanto se acham elevados os meus caminhos acima dos vossos caminhos, os meus pensamentos acima dos vossos pensamentos. *(Isaías 55,8-9)*
+- **15** · Alegrai-vos incessantemente no Senhor; outra vez digo, alegrai-vos. *(Filipenses 4,4)*
+- **16** · Espero no Senhor, na sua palavra espera a minha alma; à espera do Senhor está a minha alma, mais do que a sentinela (à espera) da aurora. Mais do que a sentinela (à espera) da aurora. *(Salmo 129,5-6)*
+- **17** · Visto que és de muita estima, precioso, a meus olhos, visto que te amo, entregarei homens por ti, povos pela tua vida. *(Isaías 43,4)*
+- **18** · Todas as coisas têm o seu tempo, todas elas passam debaixo do céu segundo o termo que a cada uma foi prescrito. *(Eclesiastes 3,1)*
+- **19** · Mas o Senhor disse a Samuel: Não olhes para o seu vulto, nem para a altura da sua estatura, porque eu o rejeitei. Eu não julgo do homem pelo que aparece à vista: o homem vê o rosto, mas o Senhor olha para o coração. *(1 Samuel 16,7)*
+- **20** · Melhor é estarem dois juntos, do que um só, porque têm a vantagem da sua sociedade. Se um vai a cair, o outro o sustentará. Ai do que está só, porque, quando cair, não tem quem o levante! *(Eclesiastes 4,9-10)*
+- **21** · Faz-me sentir já a tua bondade, porque em ti confio. Faz-me conhecer o caminho em que devo andar, porque a ti elevo a minha alma. *(Salmo 142,8)*
+- **22** · Não se turbe o vosso coração. Credes em Deus, crede também em mim. *(João 14,1)*
+- **23** · O meu Deus, pois, cumpra todos os vossos desejos, conforme as suas riquezas, com glória, em Cristo Jesus. *(Filipenses 4,19)*
+- **24** · Logo, ou comais, ou bebais, ou façais qualquer outra coisa, fazei tudo para glória de Deus. *(1 Coríntios 10,31)*
+- **25** · Bem-aventurados os que têm fome e sede da justiça, porque serão saciados. *(Mateus 5,6)*
+- **26** · Vós pusestes para sempre a vossa esperança no Senhor. no Senhor Deus, que é a nossa fortaleza eterna. *(Isaías 26,4)*
+- **27** · E o Verbo se fez carne, e habitou entre nós; e nós vimos a sua glória, glória como de Filho Unigénito do Pai, cheio de graça e de verdade. *(João 1,14)*
+- **28** · Como o Pai me amou, assim eu vos amei. Permanecei no meu amor. *(João 15,9)*
+- **29** · Mas Deus é fiel: ele vos confirmará e guardará do (espírito) maligno. *(2 Tessalonicenses 3,3)*
+- **30** · Porque eu, o Senhor teu Deus, tomo-te pela mão e te digo: Não temas, eu vou em teu auxílio. *(Isaías 41,13)*
+- **31** · Reconhecemos a caridade que Deus tem por nós e cremos nela. Deus é caridade; quem permanece na caridade, permanece em Deus, e Deus nele. *(1 João 4,16)*
+
+## Novembro
+
+- **1** · Porque o Todo-poderoso fez em mim grandes coisas, o seu nome é santo. *(Lucas 1,49)*
+- **2** · Mas as almas dos justos estão na mão de Deus, e não os tocará nenhum tormento. *(Sabedoria 3,1)*
+- **3** · Mas para vós que temeis o meu nome, nascerá (o Messias) o sol da justiça, que traz a salvação sob as suas asas (ou raias); saireis então e saltareis (alegres) como novilhos ao sair do estábulo. *(Malaquias 4,2)*
+- **4** · E a esperança não traz engano, porque a caridade de Deus está derramada em nossos corações pelo Espírito Santo, que nos foi dado. *(Romanos 5,5)*
+- **5** · Filho, ampara a velhice de teu pai não o entristeças durante a sua vida. *(Eclesiástico 3,14)*
+- **6** · Não há salvação em nenhum outro, porque, sob o céu, nenhum outro nome foi dado aos homens, pelo qual devamos ser salvos. *(Atos 4,12)*
+- **7** · Quão amável é a tua morada, Senhor dos exércitos! A minha alma suspira, desfalece, desejando os átrios do Senhor; o meu coração e a minha carne exultam em Deus vivo. *(Salmo 83,2-3)*
+- **8** · "Glória a Deus no mais alto dos céus, e paz na terra aos homens, objecto da boa vontade (de Deus)." *(Lucas 2,14)*
+- **9** · Eu, porém, digo-vos: Amai os vossos inimigos, fazei bem aos que vos odeiam, e orai pelos que vos maltratam e vos perseguem. *(Mateus 5,44)*
+- **10** · Cada um dê como propôs no seu coração, não com tristeza, nem constrangido, porque Deus ama o que dá com alegria. *(2 Coríntios 9,7)*
+- **11** · Então ele explicou: Esta é a palavra que o Senhor dirige a Zorobabel: Nem por meio dum exército, nem pela força, mas sim pelo meu Espírito, diz o Senhor dos exércitos. *(Zacarias 4,6)*
+- **12** · Espera no Senhor, sê forte, fortifique-se o teu coração, e espera no Senhor. *(Salmo 26,14)*
+- **13** · O Senhor está perto de todos os que o invocam, de todos os que o invocam com sinceridade. *(Salmo 144,18)*
+- **14** · Eu sou o pão vivo, descido do céu. Quem comer deste pão, viverá eternamente; e o pão que eu darei, é a minha carne (que será sacrificada) para a salvação do mundo. *(João 6,51)*
+- **15** · Vós, porém, sois uma geração escolhida, um sacerdócio real, uma gente santa, um povo adquirido por Deus, para que publiqueis as perfeições daquele que das trevas vos chamou à luz admirável. *(1 Pedro 2,9)*
+- **16** · Tendo confiança de que aquele, que começou em vós a boa obra, a completará até ao dia (da vinda) de Jesus Cristo. *(Filipenses 1,6)*
+- **17** · Convém que ele cresça e eu diminua. *(João 3,30)*
+- **18** · Antes que eu te formasse no ventre de tua mãe, te conheci; antes que tu saísses do seu seio, te consagrei e constituí profeta entre as nações. *(Jeremias 1,5)*
+- **19** · O temor do Senhor é glória e honra, alegria e coroa de regozijo. *(Eclesiástico 1,11)*
+- **20** · Lâmpada para os meus passos é a tua palavra, e luz para os meus caminhos. *(Salmo 118,105)*
+- **21** · Ainda que os montes sejam abalados e tremam as colinas, o meu amor não se apartará de ti, a minha aliança de paz não se mudará, diz o Senhor, compadecido de ti. *(Isaías 54,10)*
+- **22** · Não pelas obras de justiça que tivéssemos feito, mas por sua misericórdia, salvou-nos mediante o batismo de regeneração e de renovação do Espírito Santo. *(Tito 3,5)*
+- **23** · Ensina à criança o caminho que deve seguir, que não se afastará dele, mesmo quando envelhecer. *(Provérbios 22,6)*
+- **24** · Disse portanto: Eu te amo. Senhor, fortaleza minha, Senhor meu firme apoio, meu baluarte, meu libertador, ó meu Deus, minha rocha de refúgio, meu escudo, força da minha salvação, meu asilo. *(Salmo 17,2-3)*
+- **25** · Maria conservava todas estas coisas, meditando-as no seu coração. *(Lucas 2,19)*
+- **26** · Aplica-te com todo o cuidado possível à guarda do teu coração, porque dele é que procede a vida. *(Provérbios 4,23)*
+- **27** · Pois por isso o mesmo Senhor vos dará este sinal: Eis que a virgem concebeu e dá à luz um filho, e o chama Emanuel. *(Isaías 7,14)*
+- **28** · Meu filho, se entrares no serviço de Deus, persevera firme na justiça e no temor, e prepara a tua alma para a prova. *(Eclesiástico 2,1)*
+- **29** · O Senhor teu Deus, herói salvador, está no meio de ti! Por causa de ti anda em transportes de alegria, cala-se no seu amor, exulta jubiloso a teu respeito. *(Sofonias 3,17)*
+- **30** · Honra teu pai e tua mãe, a fim de que tenhas uma vida dilatada sobre a terra que o Senhor teu Deus te dá. *(Êxodo 20,12)*
+
+## Dezembro
+
+- **1** · Cria em mim, ó Deus, um coração puro e renova em mim um espírito firme. *(Salmo 50,12)*
+- **2** · Ouve, ó Israel: o Senhor nosso Deus é o único Senhor. Amarás ao Senhor teu Deus de todo o teu coração, de toda a tua alma, com toda a tua força. *(Deuteronômio 6,4-5)*
+- **3** · Porque Deus amou de tal modo o mundo, que lhe deu seu Filho unigênito, para que todo o que crê nele não pereça, mas tenha a vida eterna. *(João 3,16)*
+- **4** · Dar-vos-ei um coração novo e porei um novo espírito no meio de vós; tirarei da vossa carne o coração de pedra e dar-vos-ei um coração de carne. *(Ezequiel 36,26)*
+- **5** · Porque onde se acham dois ou três congregados em meu nome, aí estou eu no nome deles. *(Mateus 18,20)*
+- **6** · Porém, Jesus, olhando para eles, disse-lhes: "Aos homens isto é impossível, mas a Deus tudo é possível." *(Mateus 19,26)*
+- **7** · Não vos conformeis com este mundo, mas reformai-vos com o renovamento do vosso espírito, para que reconheçais qual é a vontade de Deus, o que é bom, o que lhe agrada, o que é perfeito. *(Romanos 12,2)*
+- **8** · Sede misericordiosos, como também vosso Pai é misericordioso. *(Lucas 6,36)*
+- **9** · Não temas, porque eu sou contigo, não olhes perdidamente, porque eu sou o teu Deus; eu te confortei, te auxiliei, e a dextra da minha justiça te ampara. *(Isaías 41,10)*
+- **10** · Se o Senhor não edificar a casa, é em vão que trabalham os que a edificam. Se o Senhor não guardar a cidade, inutilmente vigia a sentinela. *(Salmo 126,1)*
+- **11** · Não julgueis, e não sereis julgados; não condeneis, e não sereis condenados; perdoai, e sereis perdoados. *(Lucas 6,37)*
+- **12** · Este é o dia que fez o Senhor; regozijemo-nos e alegremo-nos nele. *(Salmo 117,24)*
+- **13** · E eu lhes darei um só coração e derramarei no seu íntimo um novo espírito; tirarei da sua carne o coração de pedra e dar-lhes-ei um coração de carne. *(Ezequiel 11,19)*
+- **14** · Vinde a mim todos os que estais fatigados e carregados, e eu vos aliviarei. *(Mateus 11,28)*
+- **15** · Bem-aventurada a que acreditou, porque se hão-de cumprir as coisas que da parte do Senhor foram ditas. *(Lucas 1,45)*
+- **16** · Segurava-os com laços humanos, com laços de amor; fui para eles como o que tira o jugo de cima do pescoço e aproximei-me deles para os nutrir. *(Oseias 11,4)*
+- **17** · Tu amas tudo o que existe, e não aborreces nada do que fizeste; porque, se aborrecesses alguma coisa, não a terias nem criado. *(Sabedoria 11,25)*
+- **18** · Vós, os que temeis o Senhor, amai-o, e os vossos corações serão alumiados. *(Eclesiástico 2,10)*
+- **19** · Jesus Cristo é sempre o mesmo, ontem e hoje; ele o será também por todos os séculos. *(Hebreus 13,8)*
+- **20** · Pedi, e vos será dado; buscai, e achareis; batei, e abrir-se-vos-á. *(Mateus 7,7)*
+- **21** · Afeiçoai-vos às coisas que são lá de cima, não às que estão sobre a terra. *(Colossenses 3,2)*
+- **22** · Jesus disse-lhes: Por causa da vossa falta de fé. Porque na verdade vos digo que, se tiverdes fé como um grão de mostarda, direis a este monte: Passa daqui para acolá, e ele passará, e nada vos será impossível. *(Mateus 17,20)*
+- **23** · Triunfe em vossos corações a paz de Cristo, à qual fostes chamados, para (formar) um só corpo. Sede agradecidos. *(Colossenses 3,15)*
+- **24** · Porquanto um menino nasceu para nós, um filho nos foi dado, e foi posto o principado sobre o seu ombro; chama-se Maravilhoso Conselheiro, Deus Forte, Pai eterno, Príncipe da paz. *(Isaías 9,6)*
+- **25** · Porém o anjo disse-lhes: Não temais, porque eis que vos anuncio uma boa nova, que será de grande alegria para todo o povo: Nasceu-vos hoje na cidade de David um Salvador, que é o Cristo, o Senhor. *(Lucas 2,10-11)*
+- **26** · E Deus viu todas as coisas que tinha feito, e eram muito boas. E fez-se tarde e manhã, (e foi) o sexto dia. *(Gênesis 1,31)*
+- **27** · Acautela-te, não faças nunca a outro o que não quererias que outro te fizesse. *(Tobias 4,16)*
+- **28** · O Senhor me apascenta: nada me falta; em verdes pastos me faz recostar. Conduz-me junto das águas para descansar. *(Salmo 22,1-2)*
+- **29** · Não temas, ó pequenino rebanho, porque foi do agrado do vosso Pai dar-vos o reino. *(Lucas 12,32)*
+- **30** · Eu sou a videira, vós as varas. O que permanece em mim e eu nele, esse dá muito fruto, porque, sem mim, nada podeis fazer. *(João 15,5)*
+- **31** · Bem-aventurado o homem que sofre (com paciência) a provação, porque, depois que tiver sido provado, receberá a coroa da vida, que Deus prometeu aos que o amam. *(Tiago 1,12)*
