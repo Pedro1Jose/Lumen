@@ -12,7 +12,7 @@ namespace Lumen
     public static class CardRenderer
     {
         private static Image? _logo;
-        private static Image Logo => _logo ??= Image.FromStream(Assembly.GetExecutingAssembly().GetManifestResourceStream("lumen.png")!);
+        public static Image Logo => _logo ??= Image.FromStream(Assembly.GetExecutingAssembly().GetManifestResourceStream("lumen.png")!);
 
         public static Bitmap Render(Verse v, DateTime date, float scale, int widthDip = 380)
         {

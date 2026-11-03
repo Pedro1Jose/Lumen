@@ -19,7 +19,7 @@ namespace Lumen
             {
                 Directory.CreateDirectory(Settings.Folder);
                 // Nome diferente a cada dia para o Windows não reaproveitar a imagem antiga do cache.
-                string path = Path.Combine(Settings.Folder, $"tela-de-bloqueio-{date:yyyyMMdd}.png");
+                string path = Path.Combine(Settings.Folder, $"tela-de-bloqueio-v2-{date:yyyyMMdd}.png");
                 if (!File.Exists(path))
                 {
                     using var img = Render(v, date);
@@ -57,7 +57,7 @@ namespace Lumen
             using (var glowPath = new GraphicsPath())
             {
                 float r = 900 * s;
-                glowPath.AddEllipse(W / 2f - r, H * 0.62f - r, 2 * r, 2 * r);
+                glowPath.AddEllipse(W * 0.18f - r, H * 0.80f - r, 2 * r, 2 * r);
                 using var glow = new PathGradientBrush(glowPath)
                 {
                     CenterColor = Color.FromArgb(70, 0xFF, 0xD9, 0x8A),
@@ -66,11 +66,29 @@ namespace Lumen
                 g.FillPath(glow, glowPath);
             }
 
-            // Cartão do versículo, maior, um pouco abaixo do meio (o relógio fica na parte de cima).
-            float cardScale = 2.1f * s;
-            using var card = CardRenderer.Render(v, date, cardScale, 520);
-            float x = (W - card.Width) / 2f, y = H * 0.60f - card.Height / 2f;
-            g.DrawImage(card, x, y, card.Width, card.Height);
+            // Estilo minimalista: só o texto, no canto inferior esquerdo, longe do relógio e da caixa do PIN.
+            g.TextRenderingHint = System.Drawing.Text.TextRenderingHint.AntiAliasGridFit;
+            float left = W * 0.065f, maxW = W * 0.36f, bottom = H * 0.80f;
+            using var verseFont = new Font("Georgia", 30f * s, GraphicsUnit.Pixel);
+            using var refFont = new Font("Segoe UI", 20f * s, FontStyle.Italic, GraphicsUnit.Pixel);
+            var verseSize = g.MeasureString(v.Texto, verseFont, (int)maxW);
+            var refSize = g.MeasureString("— " + v.Referencia, refFont);
+            float gap = 18 * s;
+            float top = bottom - verseSize.Height - gap - refSize.Height;
+
+            // Linha dourada fina e a lamparina pequena, acima do texto.
+            float logo = 28 * s;
+            g.DrawImage(CardRenderer.Logo, left, top - logo - 22 * s, logo, logo);
+            using (var line = new Pen(Color.FromArgb(160, 0xE8, 0xB2, 0x4A), 2f * s))
+                g.DrawLine(line, left + logo + 14 * s, top - logo / 2 - 22 * s, left + logo + 14 * s + 90 * s, top - logo / 2 - 22 * s);
+
+            var rect = new RectangleF(left, top, maxW, verseSize.Height + 4);
+            using (var shadow = new SolidBrush(Color.FromArgb(90, 0, 0, 0)))
+                g.DrawString(v.Texto, verseFont, shadow, new RectangleF(rect.X + 2 * s, rect.Y + 2 * s, rect.Width, rect.Height));
+            using (var white = new SolidBrush(Color.FromArgb(240, 0xFF, 0xF7, 0xEA)))
+                g.DrawString(v.Texto, verseFont, white, rect);
+            using (var gold = new SolidBrush(Color.FromArgb(0xE8, 0xB2, 0x4A)))
+                g.DrawString("— " + v.Referencia, refFont, gold, left, top + verseSize.Height + gap);
             return bmp;
         }
     }
