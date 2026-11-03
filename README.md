@@ -8,6 +8,12 @@
 
 Lumen é um pequeno app para Windows que mostra o **versículo do dia** na área de trabalho e na tela de bloqueio. Os textos são da Bíblia católica, tradução do Pe. Manuel de Matos Soares (1956).
 
+## Download
+
+**[⬇️ Baixar o Lumen.exe (versão mais recente)](https://github.com/Pedro1Jose/Lumen/releases/latest)**
+
+Na página que abrir, desça até **Assets** e clique em **Lumen.exe**. Todas as versões ficam em [Releases](https://github.com/Pedro1Jose/Lumen/releases).
+
 ## Funcionalidades
 
 - **Widget na área de trabalho:** o versículo do dia fica sempre visível, num estilo minimalista (lamparina, texto branco e referência dourada) que dá para ler em qualquer papel de parede.
@@ -22,7 +28,7 @@ Lumen é um pequeno app para Windows que mostra o **versículo do dia** na área
 
 ## Como usar
 
-1. Baixe o `Lumen.exe` na página de [Releases](../../releases), ou compile (veja abaixo).
+1. Baixe o `Lumen.exe` na [última Release](https://github.com/Pedro1Jose/Lumen/releases/latest), em **Assets**, ou compile (veja abaixo).
 2. Coloque o arquivo numa pasta fixa, por exemplo `Documentos\Lumen`. O "Iniciar com o Windows" aponta para esse local.
 3. Dê dois cliques no `Lumen.exe`. Se o Windows pedir o **.NET 8 Desktop Runtime**, aceite a instalação.
 4. Se o SmartScreen avisar que o app não é reconhecido, clique em **Mais informações** e depois em **Executar assim mesmo**.
