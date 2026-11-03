@@ -6,6 +6,7 @@ App em C# (.NET 8, Windows Forms).
 - `WidgetForm.cs`: a janela transparente do widget (arrastar, ficar atrás das janelas ou por cima).
 - `CardRenderer.cs`: desenha o cartão do versículo (também será usado para a tela de bloqueio).
 - `Verses.cs`: lê `Assets/versiculos.json`, embutido no .exe.
+- `LockScreenImage.cs`: gera a imagem do dia e coloca na tela de bloqueio.
 - `Settings.cs`: salva posição e preferências em `%APPDATA%\Lumen\config.json`.
 - `Startup.cs`: liga e desliga "Iniciar com o Windows".
 

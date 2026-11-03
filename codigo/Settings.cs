@@ -10,6 +10,7 @@ namespace Lumen
         public int? Top { get; set; }
         public bool AlwaysOnTop { get; set; } = false;
         public bool FirstRunDone { get; set; } = false;
+        public bool LockScreen { get; set; } = true;
 
         public static string Folder => Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), "Lumen");
         private static string FilePath => Path.Combine(Folder, "config.json");

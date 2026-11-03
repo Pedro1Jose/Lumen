@@ -47,9 +47,17 @@ namespace Lumen
             var iniciar = new ToolStripMenuItem("Iniciar com o Windows") { CheckOnClick = true };
             try { iniciar.Checked = Startup.IsEnabled(); } catch { }
             iniciar.CheckedChanged += (_, _) => { try { Startup.Set(iniciar.Checked); } catch { } };
+            var bloqueio = new ToolStripMenuItem("Versículo na tela de bloqueio") { CheckOnClick = true, Checked = settings.LockScreen };
+            bloqueio.CheckedChanged += async (_, _) =>
+            {
+                settings.LockScreen = bloqueio.Checked;
+                settings.Save();
+                if (bloqueio.Checked && !await LockScreenImage.UpdateAsync(widget.Current, DateTime.Today))
+                    MessageBox.Show("Não consegui trocar a imagem da tela de bloqueio.\n\n" + LockScreenImage.LastError, "Lumen");
+            };
             var sair = new ToolStripMenuItem("Sair", null, (_, _) => Application.Exit());
 
-            menu.Items.AddRange(new ToolStripItem[] { mostrar, ocultar, copiar, new ToolStripSeparator(), topo, iniciar, new ToolStripSeparator(), sair });
+            menu.Items.AddRange(new ToolStripItem[] { mostrar, ocultar, copiar, new ToolStripSeparator(), topo, bloqueio, iniciar, new ToolStripSeparator(), sair });
 
             var tray = new NotifyIcon { Icon = new Icon(icoStream), Visible = true, ContextMenuStrip = menu };
             void UpdateTip() { var t = "Lumen · " + widget.Current.Referencia; tray.Text = t.Length > 63 ? "Lumen" : t; }

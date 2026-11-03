@@ -57,6 +57,7 @@ namespace Lumen
             Current = Verses.ForDate(_shownDate);
             Redraw();
             VerseChanged?.Invoke();
+            if (_settings.LockScreen) _ = LockScreenImage.UpdateAsync(Current, _shownDate);
         }
 
         public void SetAlwaysOnTop(bool on)
