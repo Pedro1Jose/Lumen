@@ -48,6 +48,7 @@ namespace Lumen
         protected override void OnHandleCreated(EventArgs e)
         {
             base.OnHandleCreated(e);
+            AttachToDesktop();
             ShowToday();
             PlaceWindow();
             ApplyZOrder();
@@ -62,12 +63,30 @@ namespace Lumen
             if (_settings.LockScreen) _ = LockScreenImage.UpdateAsync(Current, _shownDate);
         }
 
+        public void SetTextSize(string size)
+        {
+            _settings.TextSize = size;
+            _settings.Save();
+            PlaceWindow();
+        }
+
         public void SetAlwaysOnTop(bool on)
         {
             _alwaysOnTop = on;
             _settings.AlwaysOnTop = on;
             _settings.Save();
             ApplyZOrder();
+        }
+
+        // Faz a área de trabalho ser a "dona" do widget. Assim o Win+D ("Mostrar área de trabalho") não o esconde.
+        private void AttachToDesktop()
+        {
+            try
+            {
+                var progman = FindWindow("Progman", null);
+                if (progman != IntPtr.Zero) SetWindowLongPtr(Handle, GWLP_HWNDPARENT, progman);
+            }
+            catch { }
         }
 
         private void ApplyZOrder()
@@ -83,7 +102,7 @@ namespace Lumen
             float scale = CurrentScale();
             _lastScale = scale;
             _lastScreen = Screen.FromPoint(Location).Bounds;
-            using var bmp = CardRenderer.Render(Current, _shownDate, scale);
+            using var bmp = CardRenderer.Render(Current, _shownDate, scale * _settings.SizeFactor);
             Size = bmp.Size;
             SetBitmap(bmp);
         }
@@ -136,8 +155,15 @@ namespace Lumen
         private void OnDrag(object? sender, MouseEventArgs e)
         {
             if (e.Button != MouseButtons.Left) return;
+            var before = Location;
             ReleaseCapture();
             SendMessage(Handle, WM_NCLBUTTONDOWN, (IntPtr)HTCAPTION, IntPtr.Zero);
+            // Se não mexeu, foi um clique: abre o capítulo inteiro.
+            if (Math.Abs(Left - before.X) < 3 && Math.Abs(Top - before.Y) < 3)
+            {
+                ChapterForm.ShowFor(Current);
+                return;
+            }
             _settings.Left = Left; _settings.Top = Top; _settings.Save();
             CheckDisplay();
             ApplyZOrder();
@@ -158,6 +184,10 @@ namespace Lumen
                 var pos = Marshal.PtrToStructure<WINDOWPOS>(m.LParam);
                 pos.hwndInsertAfter = HWND_BOTTOM;
                 Marshal.StructureToPtr(pos, m.LParam, false);
+            }
+            else if (m.Msg == WM_TASKBARCREATED && WM_TASKBARCREATED != 0)
+            {
+                BeginInvoke(new Action(() => { AttachToDesktop(); ApplyZOrder(); }));
             }
             else if (m.Msg == WM_DPICHANGED || m.Msg == WM_DISPLAYCHANGE)
             {
@@ -209,6 +239,11 @@ namespace Lumen
         [DllImport("gdi32.dll")] private static extern bool DeleteObject(IntPtr hObject);
         [DllImport("user32.dll")] private static extern bool SetWindowPos(IntPtr h, IntPtr after, int x, int y, int cx, int cy, uint f);
         [DllImport("user32.dll")] private static extern bool ReleaseCapture();
+        private const int GWLP_HWNDPARENT = -8;
+        private static readonly int WM_TASKBARCREATED = RegisterWindowMessage("TaskbarCreated");
+        [DllImport("user32.dll", CharSet = CharSet.Unicode)] private static extern int RegisterWindowMessage(string msg);
+        [DllImport("user32.dll", CharSet = CharSet.Unicode)] private static extern IntPtr FindWindow(string? cls, string? name);
+        [DllImport("user32.dll", EntryPoint = "SetWindowLongPtrW")] private static extern IntPtr SetWindowLongPtr(IntPtr h, int i, IntPtr v);
         [DllImport("user32.dll")] private static extern IntPtr MonitorFromPoint(POINT pt, int flags);
         [DllImport("shcore.dll")] private static extern int GetDpiForMonitor(IntPtr hmonitor, int dpiType, out uint dpiX, out uint dpiY);
         [DllImport("user32.dll")] private static extern IntPtr SendMessage(IntPtr hWnd, int msg, IntPtr wParam, IntPtr lParam);

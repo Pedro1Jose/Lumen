@@ -11,6 +11,8 @@ namespace Lumen
         public bool AlwaysOnTop { get; set; } = false;
         public bool FirstRunDone { get; set; } = false;
         public bool LockScreen { get; set; } = true;
+        public string TextSize { get; set; } = "Medio"; // Pequeno, Medio, Grande
+        public float SizeFactor => TextSize switch { "Pequeno" => 0.85f, "Grande" => 1.2f, _ => 1f };
 
         public static string Folder => Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), "Lumen");
         private static string FilePath => Path.Combine(Folder, "config.json");

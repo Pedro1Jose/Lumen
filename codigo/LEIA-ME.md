@@ -7,6 +7,8 @@ App em C# (.NET 8, Windows Forms).
 - `CardRenderer.cs`: desenha o cartão do versículo (também será usado para a tela de bloqueio).
 - `Verses.cs`: lê `Assets/versiculos.json`, embutido no .exe.
 - `LockScreenImage.cs`: gera a imagem do dia e coloca na tela de bloqueio.
+- `Bible.cs` e `ChapterForm.cs`: a Bíblia completa e a janela que mostra o capítulo inteiro. O texto completo não fica no repositório: o primeiro build baixa `Assets/biblia.json` de github.com/Dancrf/biblia-db.
+- `Updater.cs`: atualização automática (coloque `Lumen-novo.exe` ao lado do `Lumen.exe`).
 - `Settings.cs`: salva posição e preferências em `%APPDATA%\Lumen\config.json`.
 - `Startup.cs`: liga e desliga "Iniciar com o Windows".
 
