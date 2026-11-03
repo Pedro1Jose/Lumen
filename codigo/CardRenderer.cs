@@ -21,7 +21,7 @@ namespace Lumen
             int W = (int)(widthDip * scale);
             float pad = 14 * scale;
             using var verseFont = new Font("Georgia", 15f * scale, GraphicsUnit.Pixel);
-            using var refFont = new Font("Segoe UI", 12.5f * scale, FontStyle.Italic, GraphicsUnit.Pixel);
+            using var refFont = new Font("Segoe UI Semibold", 13.5f * scale, FontStyle.Regular, GraphicsUnit.Pixel);
             string refStr = "— " + v.Referencia;
             float textW = W - 2 * pad;
 
@@ -30,8 +30,8 @@ namespace Lumen
             using (var g0 = Graphics.FromImage(tmp))
             {
                 g0.TextRenderingHint = TextRenderingHint.AntiAlias;
-                verseSize = g0.MeasureString(v.Texto, verseFont, (int)textW);
-                refSize = g0.MeasureString(refStr, refFont);
+                verseSize = g0.MeasureString(v.Texto, verseFont, (int)textW, StringFormat.GenericTypographic);
+                refSize = g0.MeasureString(refStr, refFont, (int)textW, StringFormat.GenericTypographic);
             }
 
             float logo = 18 * scale, headerGap = 10 * scale, gap = 8 * scale;
@@ -47,24 +47,34 @@ namespace Lumen
 
             float x = pad, y = pad;
             g.DrawImage(Logo, x, y, logo, logo);
-            using (var line = new Pen(Color.FromArgb(170, 0xE8, 0xB2, 0x4A), 1.5f * scale))
+            using (var lineShadow = new Pen(Color.FromArgb(120, 10, 14, 24), 3.5f * scale))
+                g.DrawLine(lineShadow, x + logo + 10 * scale, y + logo / 2, x + logo + 10 * scale + 60 * scale, y + logo / 2);
+            using (var line = new Pen(Color.FromArgb(255, 0xFF, 0xCC, 0x5C), 1.6f * scale))
                 g.DrawLine(line, x + logo + 10 * scale, y + logo / 2, x + logo + 10 * scale + 60 * scale, y + logo / 2);
             y += logo + headerGap;
 
-            var rect = new RectangleF(x, y, textW, verseSize.Height + 4);
+            var rect = new RectangleF(x, y, textW, verseSize.Height + 12 * scale);
             DrawSoft(g, v.Texto, verseFont, rect, Color.FromArgb(245, 0xFF, 0xF7, 0xEA), scale);
             y += verseSize.Height + gap;
-            DrawSoft(g, refStr, refFont, new RectangleF(x, y, textW, refSize.Height + 4), Color.FromArgb(0xF0, 0xBE, 0x5A), scale);
+            DrawSoft(g, refStr, refFont, new RectangleF(x, y, textW, refSize.Height + 8 * scale), Color.FromArgb(0xFF, 0xCC, 0x5C), scale);
             return bmp;
         }
 
+        // Texto com um contorno escuro suave por baixo: fica legível tanto em fundo claro quanto escuro.
         private static void DrawSoft(Graphics g, string text, Font font, RectangleF r, Color color, float scale)
         {
-            using (var sh = new SolidBrush(Color.FromArgb(40, 0, 0, 0)))
-                foreach (var (dx, dy) in new[] { (1f, 1f), (2f, 2f), (-1f, 1f), (1f, -1f), (0f, 2.5f) })
-                    g.DrawString(text, font, sh, new RectangleF(r.X + dx * scale, r.Y + dy * scale, r.Width, r.Height));
+            using var path = new GraphicsPath();
+            using (var sf = new StringFormat(StringFormat.GenericTypographic) { Trimming = StringTrimming.None })
+            {
+                sf.FormatFlags &= ~StringFormatFlags.NoWrap;
+                path.AddString(text, font.FontFamily, (int)font.Style, font.Size, r, sf);
+            }
+            using (var halo = new Pen(Color.FromArgb(70, 10, 14, 24), 5f * scale) { LineJoin = LineJoin.Round })
+                g.DrawPath(halo, path);
+            using (var edge = new Pen(Color.FromArgb(150, 10, 14, 24), 2.2f * scale) { LineJoin = LineJoin.Round })
+                g.DrawPath(edge, path);
             using var b = new SolidBrush(color);
-            g.DrawString(text, font, b, r);
+            g.FillPath(b, path);
         }
 
         public static GraphicsPath RoundRect(RectangleF r, float rad)

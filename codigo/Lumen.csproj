@@ -11,7 +11,7 @@
     <RootNamespace>Lumen</RootNamespace>
     <ApplicationIcon>Assets\lumen.ico</ApplicationIcon>
     <Product>Lumen</Product>
-    <Version>0.4.1</Version>
+    <Version>0.4.2</Version>
     <RuntimeIdentifier>win-x64</RuntimeIdentifier>
     <SelfContained>false</SelfContained>
     <PublishSingleFile>true</PublishSingleFile>
