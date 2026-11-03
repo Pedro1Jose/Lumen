@@ -26,6 +26,8 @@ namespace Lumen
             Text = "Lumen";
             _timer.Tick += (_, _) => { if (DateTime.Today != _shownDate) ShowToday(); };
             _timer.Start();
+            _dpiTimer.Tick += (_, _) => CheckDisplay();
+            _dpiTimer.Start();
             MouseDown += OnDrag;
             SystemEvents_Resume();
         }
@@ -78,22 +80,57 @@ namespace Lumen
         private void Redraw()
         {
             if (!IsHandleCreated) return;
-            float scale = DeviceDpi / 96f;
+            float scale = CurrentScale();
+            _lastScale = scale;
+            _lastScreen = Screen.FromPoint(Location).Bounds;
             using var bmp = CardRenderer.Render(Current, _shownDate, scale);
             Size = bmp.Size;
             SetBitmap(bmp);
         }
 
+        private float _lastScale;
+        private Rectangle _lastScreen;
+        private readonly System.Windows.Forms.Timer _dpiTimer = new() { Interval = 2000 };
+
+        // Escala real do monitor onde o widget está (100%, 125%, 150%...).
+        private float CurrentScale()
+        {
+            try
+            {
+                var mon = MonitorFromPoint(new POINT { x = Left + 5, y = Top + 5 }, MONITOR_DEFAULTTONEAREST);
+                if (GetDpiForMonitor(mon, 0, out uint dx, out _) == 0 && dx > 0) return dx / 96f;
+            }
+            catch { }
+            return DeviceDpi / 96f;
+        }
+
+        // Se a escala ou a resolução mudarem (troca de monitor, ajuste nas Configurações, PC acordando), redesenha.
+        private void CheckDisplay()
+        {
+            if (!IsHandleCreated) return;
+            var screen = Screen.FromPoint(Location).Bounds;
+            if (Math.Abs(CurrentScale() - _lastScale) > 0.01f || screen != _lastScreen) PlaceWindow();
+        }
+
         private void PlaceWindow()
         {
-            var wa = Screen.PrimaryScreen!.WorkingArea;
-            int left = _settings.Left ?? wa.Right - Width - 16;
-            int top = _settings.Top ?? wa.Top + 16;
             var visible = SystemInformation.VirtualScreen;
-            if (left < visible.Left || left > visible.Right - 60 || top < visible.Top || top > visible.Bottom - 60)
-            { left = wa.Right - Width - 16; top = wa.Top + 16; }
+            bool hasSaved = _settings.Left.HasValue && _settings.Top.HasValue;
+            int left = _settings.Left ?? 0, top = _settings.Top ?? 0;
+            if (!hasSaved || left < visible.Left || left > visible.Right - 60 || top < visible.Top || top > visible.Bottom - 60)
+            {
+                var wa0 = Screen.PrimaryScreen!.WorkingArea;
+                left = wa0.Right - 16; top = wa0.Top + 16; hasSaved = false;
+            }
             Location = new Point(left, top);
-            Redraw();
+            Redraw(); // desenha na escala do monitor certo
+
+            // Depois de saber o tamanho novo, garante que o widget cabe inteiro na tela.
+            var wa = Screen.FromPoint(new Point(left + 5, top + 5)).WorkingArea;
+            if (!hasSaved) left = wa.Right - Width - 16;
+            left = Math.Max(wa.Left, Math.Min(left, wa.Right - Width));
+            top = Math.Max(wa.Top, Math.Min(top, wa.Bottom - Height));
+            if (left != Left || top != Top) { Location = new Point(left, top); Redraw(); }
         }
 
         private void OnDrag(object? sender, MouseEventArgs e)
@@ -102,6 +139,7 @@ namespace Lumen
             ReleaseCapture();
             SendMessage(Handle, WM_NCLBUTTONDOWN, (IntPtr)HTCAPTION, IntPtr.Zero);
             _settings.Left = Left; _settings.Top = Top; _settings.Save();
+            CheckDisplay();
             ApplyZOrder();
         }
 
@@ -121,10 +159,10 @@ namespace Lumen
                 pos.hwndInsertAfter = HWND_BOTTOM;
                 Marshal.StructureToPtr(pos, m.LParam, false);
             }
-            else if (m.Msg == WM_DPICHANGED)
+            else if (m.Msg == WM_DPICHANGED || m.Msg == WM_DISPLAYCHANGE)
             {
-                base.WndProc(ref m);
-                Redraw();
+                BeginInvoke(new Action(Redraw));
+                m.Result = IntPtr.Zero;
                 return;
             }
             base.WndProc(ref m);
@@ -153,7 +191,7 @@ namespace Lumen
         }
 
         private const int WS_EX_LAYERED = 0x80000, WS_EX_TOOLWINDOW = 0x80, WS_EX_NOACTIVATE = 0x08000000, WS_EX_TOPMOST = 0x8;
-        private const int WM_WINDOWPOSCHANGING = 0x0046, WM_NCLBUTTONDOWN = 0xA1, HTCAPTION = 2, WM_DPICHANGED = 0x02E0, ULW_ALPHA = 2;
+        private const int WM_WINDOWPOSCHANGING = 0x0046, WM_NCLBUTTONDOWN = 0xA1, HTCAPTION = 2, WM_DPICHANGED = 0x02E0, WM_DISPLAYCHANGE = 0x007E, MONITOR_DEFAULTTONEAREST = 2, ULW_ALPHA = 2;
         private static readonly IntPtr HWND_BOTTOM = new(1), HWND_TOPMOST = new(-1), HWND_NOTOPMOST = new(-2);
         private const uint SWP_NOSIZE = 0x1, SWP_NOMOVE = 0x2, SWP_NOACTIVATE = 0x10;
 
@@ -171,6 +209,8 @@ namespace Lumen
         [DllImport("gdi32.dll")] private static extern bool DeleteObject(IntPtr hObject);
         [DllImport("user32.dll")] private static extern bool SetWindowPos(IntPtr h, IntPtr after, int x, int y, int cx, int cy, uint f);
         [DllImport("user32.dll")] private static extern bool ReleaseCapture();
+        [DllImport("user32.dll")] private static extern IntPtr MonitorFromPoint(POINT pt, int flags);
+        [DllImport("shcore.dll")] private static extern int GetDpiForMonitor(IntPtr hmonitor, int dpiType, out uint dpiX, out uint dpiY);
         [DllImport("user32.dll")] private static extern IntPtr SendMessage(IntPtr hWnd, int msg, IntPtr wParam, IntPtr lParam);
     }
 }
