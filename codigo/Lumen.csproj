@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <ImportWindowsDesktopTargets>false</ImportWindowsDesktopTargets>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <AssemblyName>Lumen</AssemblyName>
+    <RootNamespace>Lumen</RootNamespace>
+    <ApplicationIcon>Assets\lumen.ico</ApplicationIcon>
+    <Product>Lumen</Product>
+    <Version>0.1.0</Version>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <SelfContained>false</SelfContained>
+    <PublishSingleFile>true</PublishSingleFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Assets\versiculos.json" LogicalName="versiculos.json" />
+    <EmbeddedResource Include="Assets\lumen.ico" LogicalName="lumen.ico" />
+    <EmbeddedResource Include="Assets\lumen.png" LogicalName="lumen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.WindowsDesktop.App.WindowsForms" />
+  </ItemGroup>
+</Project>
