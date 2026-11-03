@@ -4,7 +4,7 @@
 
 <h1 align="center">Lumen</h1>
 
-<p align="center"><i>"Lâmpada para os meus passos é a tua palavra." (Salmo 118,105)</i></p>
+<p align="center"><i>"Vossa palavra é um facho que ilumina meus passos, uma luz em meu caminho." (Salmo 118,105)</i></p>
 
 Lumen é um pequeno app para Windows que mostra o **versículo do dia** na área de trabalho e na tela de bloqueio. Os textos são da Bíblia católica, tradução do Pe. Manuel de Matos Soares (1956).
 
